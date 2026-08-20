@@ -22,7 +22,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=50&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0001-richtonkotsuchas.jpg",
     "caloriesApprox": 580,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -78,7 +78,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=51&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0002-vietnamesebeefph.jpg",
     "caloriesApprox": 421,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -134,7 +134,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=52&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0003-spicymalatanghot.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -190,7 +190,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=53&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0004-freshsalmondonbu.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -246,7 +246,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=54&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0005-thaishrimppadtha.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -302,7 +302,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=55&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0006-nagoyadrymazesob.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -358,7 +358,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=56&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0007-butterchickencur.jpg",
     "caloriesApprox": 596,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -414,7 +414,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=57&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0008-taiwanesebeefsha.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -470,7 +470,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=58&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0009-tokyoporkkatsudo.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -526,7 +526,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=59&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0010-japanesebeefgyud.jpg",
     "caloriesApprox": 589,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -582,7 +582,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=60&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0011-richtonkotsuchas.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -638,7 +638,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=61&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0012-vietnamesebeefph.jpg",
     "caloriesApprox": 431,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -694,7 +694,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=62&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0013-spicymalatanghot.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -750,7 +750,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=63&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0014-freshsalmondonbu.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -806,7 +806,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=64&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0015-thaishrimppadtha.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -862,7 +862,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=65&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0016-nagoyadrymazesob.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -918,7 +918,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=66&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0017-butterchickencur.jpg",
     "caloriesApprox": 606,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -974,7 +974,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=67&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0018-taiwanesebeefsha.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -1030,7 +1030,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=68&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0019-tokyoporkkatsudo.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -1086,7 +1086,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=69&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0020-japanesebeefgyud.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -1142,7 +1142,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=70&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0021-richtonkotsuchas.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -1198,7 +1198,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=71&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0022-vietnamesebeefph.jpg",
     "caloriesApprox": 441,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -1254,7 +1254,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=72&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0023-spicymalatanghot.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -1310,7 +1310,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=73&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0024-freshsalmondonbu.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -1366,7 +1366,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=74&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0025-thaishrimppadtha.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -1422,7 +1422,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=75&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0026-nagoyadrymazesob.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -1478,7 +1478,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=76&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0027-butterchickencur.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -1534,7 +1534,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=77&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0028-taiwanesebeefsha.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -1590,7 +1590,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=78&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0029-tokyoporkkatsudo.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -1646,7 +1646,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=79&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0030-japanesebeefgyud.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -1702,7 +1702,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=80&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0031-richtonkotsuchas.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -1758,7 +1758,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=81&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0032-vietnamesebeefph.jpg",
     "caloriesApprox": 451,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -1814,7 +1814,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=82&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0033-spicymalatanghot.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -1870,7 +1870,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=83&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0034-freshsalmondonbu.jpg",
     "caloriesApprox": 513,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -1926,7 +1926,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=84&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0035-thaishrimppadtha.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -1982,7 +1982,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=85&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0036-nagoyadrymazesob.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -2038,7 +2038,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=86&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0037-butterchickencur.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -2094,7 +2094,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=87&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0038-taiwanesebeefsha.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -2150,7 +2150,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=88&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0039-tokyoporkkatsudo.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -2206,7 +2206,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=89&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0040-japanesebeefgyud.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -2262,7 +2262,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=90&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0041-richtonkotsuchas.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -2318,7 +2318,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=91&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0042-vietnamesebeefph.jpg",
     "caloriesApprox": 461,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -2374,7 +2374,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=92&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0043-spicymalatanghot.jpg",
     "caloriesApprox": 692,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -2430,7 +2430,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=93&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0044-freshsalmondonbu.jpg",
     "caloriesApprox": 523,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -2486,7 +2486,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=94&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0045-thaishrimppadtha.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -2542,7 +2542,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=95&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0046-nagoyadrymazesob.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -2598,7 +2598,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=96&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0047-butterchickencur.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -2654,7 +2654,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=97&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0048-taiwanesebeefsha.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -2710,7 +2710,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=98&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0049-tokyoporkkatsudo.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -2766,7 +2766,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=99&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0050-japanesebeefgyud.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -2822,7 +2822,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=100&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0051-richtonkotsuchas.jpg",
     "caloriesApprox": 580,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -2878,7 +2878,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=101&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0052-vietnamesebeefph.jpg",
     "caloriesApprox": 421,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -2934,7 +2934,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=102&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0053-spicymalatanghot.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -2990,7 +2990,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=103&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0054-freshsalmondonbu.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -3046,7 +3046,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=104&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0055-thaishrimppadtha.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -3102,7 +3102,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=105&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0056-nagoyadrymazesob.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -3158,7 +3158,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=106&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0057-butterchickencur.jpg",
     "caloriesApprox": 596,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -3214,7 +3214,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=107&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0058-taiwanesebeefsha.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -3270,7 +3270,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=108&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0059-tokyoporkkatsudo.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -3326,7 +3326,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=109&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0060-japanesebeefgyud.jpg",
     "caloriesApprox": 589,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -3382,7 +3382,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=110&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0061-richtonkotsuchas.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -3438,7 +3438,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=111&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0062-vietnamesebeefph.jpg",
     "caloriesApprox": 431,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -3494,7 +3494,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=112&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0063-spicymalatanghot.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -3550,7 +3550,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=113&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0064-freshsalmondonbu.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -3606,7 +3606,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=114&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0065-thaishrimppadtha.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -3662,7 +3662,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=115&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0066-nagoyadrymazesob.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -3718,7 +3718,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=116&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0067-butterchickencur.jpg",
     "caloriesApprox": 606,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -3774,7 +3774,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=117&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0068-taiwanesebeefsha.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -3830,7 +3830,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=118&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0069-tokyoporkkatsudo.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -3886,7 +3886,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=119&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0070-japanesebeefgyud.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -3942,7 +3942,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=120&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0071-richtonkotsuchas.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -3998,7 +3998,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=121&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0072-vietnamesebeefph.jpg",
     "caloriesApprox": 441,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -4054,7 +4054,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=122&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0073-spicymalatanghot.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -4110,7 +4110,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=123&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0074-freshsalmondonbu.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -4166,7 +4166,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=124&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0075-thaishrimppadtha.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -4222,7 +4222,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=125&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0076-nagoyadrymazesob.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -4278,7 +4278,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=126&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0077-butterchickencur.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -4334,7 +4334,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=127&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0078-taiwanesebeefsha.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -4390,7 +4390,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=128&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0079-tokyoporkkatsudo.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -4446,7 +4446,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=129&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0080-japanesebeefgyud.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -4502,7 +4502,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=130&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0081-richtonkotsuchas.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -4558,7 +4558,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=131&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0082-vietnamesebeefph.jpg",
     "caloriesApprox": 451,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -4614,7 +4614,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=132&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0083-spicymalatanghot.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -4670,7 +4670,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=133&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0084-freshsalmondonbu.jpg",
     "caloriesApprox": 513,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -4726,7 +4726,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=134&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0085-thaishrimppadtha.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -4782,7 +4782,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=135&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0086-nagoyadrymazesob.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -4838,7 +4838,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=136&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0087-butterchickencur.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -4894,7 +4894,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=137&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0088-taiwanesebeefsha.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -4950,7 +4950,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=138&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0089-tokyoporkkatsudo.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -5006,7 +5006,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=139&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0090-japanesebeefgyud.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -5062,7 +5062,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=140&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0091-richtonkotsuchas.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -5118,7 +5118,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=141&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0092-vietnamesebeefph.jpg",
     "caloriesApprox": 461,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -5174,7 +5174,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=142&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0093-spicymalatanghot.jpg",
     "caloriesApprox": 692,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -5230,7 +5230,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=143&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0094-freshsalmondonbu.jpg",
     "caloriesApprox": 523,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -5286,7 +5286,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=144&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0095-thaishrimppadtha.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -5342,7 +5342,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=145&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0096-nagoyadrymazesob.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -5398,7 +5398,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=146&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0097-butterchickencur.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -5454,7 +5454,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=147&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0098-taiwanesebeefsha.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -5510,7 +5510,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=148&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0099-tokyoporkkatsudo.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -5566,7 +5566,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=149&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0100-japanesebeefgyud.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -5622,7 +5622,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=150&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0101-richtonkotsuchas.jpg",
     "caloriesApprox": 580,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -5678,7 +5678,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=151&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0102-vietnamesebeefph.jpg",
     "caloriesApprox": 421,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -5734,7 +5734,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=152&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0103-spicymalatanghot.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -5790,7 +5790,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=153&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0104-freshsalmondonbu.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -5846,7 +5846,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=154&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0105-thaishrimppadtha.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -5902,7 +5902,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=155&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0106-nagoyadrymazesob.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -5958,7 +5958,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=156&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0107-butterchickencur.jpg",
     "caloriesApprox": 596,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -6014,7 +6014,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=157&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0108-taiwanesebeefsha.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -6070,7 +6070,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=158&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0109-tokyoporkkatsudo.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -6126,7 +6126,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=159&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0110-japanesebeefgyud.jpg",
     "caloriesApprox": 589,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -6182,7 +6182,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=160&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0111-richtonkotsuchas.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -6238,7 +6238,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=161&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0112-vietnamesebeefph.jpg",
     "caloriesApprox": 431,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -6294,7 +6294,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=162&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0113-spicymalatanghot.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -6350,7 +6350,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=163&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0114-freshsalmondonbu.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -6406,7 +6406,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=164&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0115-thaishrimppadtha.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -6462,7 +6462,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=165&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0116-nagoyadrymazesob.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -6518,7 +6518,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=166&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0117-butterchickencur.jpg",
     "caloriesApprox": 606,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -6574,7 +6574,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=167&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0118-taiwanesebeefsha.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -6630,7 +6630,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=168&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0119-tokyoporkkatsudo.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -6686,7 +6686,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=169&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0120-japanesebeefgyud.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -6742,7 +6742,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=170&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0121-richtonkotsuchas.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -6798,7 +6798,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=171&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0122-vietnamesebeefph.jpg",
     "caloriesApprox": 441,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -6854,7 +6854,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=172&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0123-spicymalatanghot.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -6910,7 +6910,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=173&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0124-freshsalmondonbu.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -6966,7 +6966,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=174&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0125-thaishrimppadtha.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -7022,7 +7022,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=175&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0126-nagoyadrymazesob.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -7078,7 +7078,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=176&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0127-butterchickencur.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -7134,7 +7134,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=177&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0128-taiwanesebeefsha.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -7190,7 +7190,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=178&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0129-tokyoporkkatsudo.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -7246,7 +7246,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=179&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0130-japanesebeefgyud.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -7302,7 +7302,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=180&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0131-richtonkotsuchas.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -7358,7 +7358,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=181&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0132-vietnamesebeefph.jpg",
     "caloriesApprox": 451,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -7414,7 +7414,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=182&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0133-spicymalatanghot.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -7470,7 +7470,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=183&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0134-freshsalmondonbu.jpg",
     "caloriesApprox": 513,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -7526,7 +7526,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=184&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0135-thaishrimppadtha.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -7582,7 +7582,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=185&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0136-nagoyadrymazesob.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -7638,7 +7638,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=186&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0137-butterchickencur.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -7694,7 +7694,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=187&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0138-taiwanesebeefsha.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -7750,7 +7750,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=188&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0139-tokyoporkkatsudo.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -7806,7 +7806,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=189&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0140-japanesebeefgyud.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -7862,7 +7862,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=190&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0141-richtonkotsuchas.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -7918,7 +7918,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=191&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0142-vietnamesebeefph.jpg",
     "caloriesApprox": 461,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -7974,7 +7974,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=192&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0143-spicymalatanghot.jpg",
     "caloriesApprox": 692,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -8030,7 +8030,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=193&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0144-freshsalmondonbu.jpg",
     "caloriesApprox": 523,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -8086,7 +8086,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=194&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0145-thaishrimppadtha.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -8142,7 +8142,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=195&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0146-nagoyadrymazesob.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -8198,7 +8198,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=196&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0147-butterchickencur.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -8254,7 +8254,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=197&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0148-taiwanesebeefsha.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -8310,7 +8310,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=198&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0149-tokyoporkkatsudo.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -8366,7 +8366,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=199&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0150-japanesebeefgyud.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -8422,7 +8422,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=200&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0151-richtonkotsuchas.jpg",
     "caloriesApprox": 580,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -8478,7 +8478,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=201&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0152-vietnamesebeefph.jpg",
     "caloriesApprox": 421,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -8534,7 +8534,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=202&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0153-spicymalatanghot.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -8590,7 +8590,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=203&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0154-freshsalmondonbu.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -8646,7 +8646,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=204&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0155-thaishrimppadtha.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -8702,7 +8702,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=205&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0156-nagoyadrymazesob.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -8758,7 +8758,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=206&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0157-butterchickencur.jpg",
     "caloriesApprox": 596,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -8814,7 +8814,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=207&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0158-taiwanesebeefsha.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -8870,7 +8870,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=208&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0159-tokyoporkkatsudo.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -8926,7 +8926,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=209&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0160-japanesebeefgyud.jpg",
     "caloriesApprox": 589,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -8982,7 +8982,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=210&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0161-richtonkotsuchas.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -9038,7 +9038,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=211&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0162-vietnamesebeefph.jpg",
     "caloriesApprox": 431,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -9094,7 +9094,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=212&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0163-spicymalatanghot.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -9150,7 +9150,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=213&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0164-freshsalmondonbu.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -9206,7 +9206,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=214&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0165-thaishrimppadtha.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -9262,7 +9262,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=215&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0166-nagoyadrymazesob.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -9318,7 +9318,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=216&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0167-butterchickencur.jpg",
     "caloriesApprox": 606,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -9374,7 +9374,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=217&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0168-taiwanesebeefsha.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -9430,7 +9430,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=218&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0169-tokyoporkkatsudo.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -9486,7 +9486,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=219&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0170-japanesebeefgyud.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -9542,7 +9542,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=220&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0171-richtonkotsuchas.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -9598,7 +9598,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=221&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0172-vietnamesebeefph.jpg",
     "caloriesApprox": 441,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -9654,7 +9654,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=222&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0173-spicymalatanghot.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -9710,7 +9710,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=223&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0174-freshsalmondonbu.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -9766,7 +9766,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=224&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0175-thaishrimppadtha.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -9822,7 +9822,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=225&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0176-nagoyadrymazesob.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -9878,7 +9878,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=226&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0177-butterchickencur.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -9934,7 +9934,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=227&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0178-taiwanesebeefsha.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -9990,7 +9990,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=228&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0179-tokyoporkkatsudo.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -10046,7 +10046,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=229&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0180-japanesebeefgyud.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -10102,7 +10102,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=230&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0181-richtonkotsuchas.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -10158,7 +10158,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=231&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0182-vietnamesebeefph.jpg",
     "caloriesApprox": 451,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -10214,7 +10214,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=232&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0183-spicymalatanghot.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -10270,7 +10270,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=233&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0184-freshsalmondonbu.jpg",
     "caloriesApprox": 513,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -10326,7 +10326,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=234&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0185-thaishrimppadtha.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -10382,7 +10382,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=235&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0186-nagoyadrymazesob.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -10438,7 +10438,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=236&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0187-butterchickencur.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -10494,7 +10494,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=237&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0188-taiwanesebeefsha.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -10550,7 +10550,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=238&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0189-tokyoporkkatsudo.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -10606,7 +10606,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=239&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0190-japanesebeefgyud.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -10662,7 +10662,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=240&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0191-richtonkotsuchas.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -10718,7 +10718,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=241&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0192-vietnamesebeefph.jpg",
     "caloriesApprox": 461,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -10774,7 +10774,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=242&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0193-spicymalatanghot.jpg",
     "caloriesApprox": 692,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -10830,7 +10830,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=243&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0194-freshsalmondonbu.jpg",
     "caloriesApprox": 523,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -10886,7 +10886,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=244&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0195-thaishrimppadtha.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -10942,7 +10942,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=245&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0196-nagoyadrymazesob.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -10998,7 +10998,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=246&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0197-butterchickencur.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -11054,7 +11054,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=247&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0198-taiwanesebeefsha.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -11110,7 +11110,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=248&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0199-tokyoporkkatsudo.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -11166,7 +11166,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=249&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0200-japanesebeefgyud.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -11222,7 +11222,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=250&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0201-richtonkotsuchas.jpg",
     "caloriesApprox": 580,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -11278,7 +11278,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=251&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0202-vietnamesebeefph.jpg",
     "caloriesApprox": 421,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -11334,7 +11334,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=252&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0203-spicymalatanghot.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -11390,7 +11390,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=253&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0204-freshsalmondonbu.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -11446,7 +11446,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=254&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0205-thaishrimppadtha.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -11502,7 +11502,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=255&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0206-nagoyadrymazesob.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -11558,7 +11558,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=256&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0207-butterchickencur.jpg",
     "caloriesApprox": 596,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -11614,7 +11614,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=257&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0208-taiwanesebeefsha.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -11670,7 +11670,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=258&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0209-tokyoporkkatsudo.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -11726,7 +11726,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=259&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0210-japanesebeefgyud.jpg",
     "caloriesApprox": 589,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -11782,7 +11782,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=260&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0211-richtonkotsuchas.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -11838,7 +11838,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=261&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0212-vietnamesebeefph.jpg",
     "caloriesApprox": 431,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -11894,7 +11894,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=262&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0213-spicymalatanghot.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -11950,7 +11950,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=263&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0214-freshsalmondonbu.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -12006,7 +12006,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=264&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0215-thaishrimppadtha.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -12062,7 +12062,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=265&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0216-nagoyadrymazesob.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -12118,7 +12118,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=266&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0217-butterchickencur.jpg",
     "caloriesApprox": 606,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -12174,7 +12174,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=267&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0218-taiwanesebeefsha.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -12230,7 +12230,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=268&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0219-tokyoporkkatsudo.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -12286,7 +12286,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=269&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0220-japanesebeefgyud.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -12342,7 +12342,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=270&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0221-richtonkotsuchas.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -12398,7 +12398,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=271&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0222-vietnamesebeefph.jpg",
     "caloriesApprox": 441,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -12454,7 +12454,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=272&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0223-spicymalatanghot.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -12510,7 +12510,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=273&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0224-freshsalmondonbu.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -12566,7 +12566,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=274&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0225-thaishrimppadtha.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -12622,7 +12622,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=275&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0226-nagoyadrymazesob.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -12678,7 +12678,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=276&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0227-butterchickencur.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -12734,7 +12734,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=277&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0228-taiwanesebeefsha.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -12790,7 +12790,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=278&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0229-tokyoporkkatsudo.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -12846,7 +12846,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=279&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0230-japanesebeefgyud.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -12902,7 +12902,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=280&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0231-richtonkotsuchas.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -12958,7 +12958,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=281&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0232-vietnamesebeefph.jpg",
     "caloriesApprox": 451,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -13014,7 +13014,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=282&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0233-spicymalatanghot.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -13070,7 +13070,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=283&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0234-freshsalmondonbu.jpg",
     "caloriesApprox": 513,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -13126,7 +13126,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=284&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0235-thaishrimppadtha.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -13182,7 +13182,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=285&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0236-nagoyadrymazesob.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -13238,7 +13238,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=286&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0237-butterchickencur.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -13294,7 +13294,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=287&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0238-taiwanesebeefsha.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -13350,7 +13350,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=288&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0239-tokyoporkkatsudo.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -13406,7 +13406,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=289&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0240-japanesebeefgyud.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -13462,7 +13462,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=290&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0241-richtonkotsuchas.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -13518,7 +13518,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=291&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0242-vietnamesebeefph.jpg",
     "caloriesApprox": 461,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -13574,7 +13574,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=292&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0243-spicymalatanghot.jpg",
     "caloriesApprox": 692,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -13630,7 +13630,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=293&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0244-freshsalmondonbu.jpg",
     "caloriesApprox": 523,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -13686,7 +13686,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=294&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0245-thaishrimppadtha.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -13742,7 +13742,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=295&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0246-nagoyadrymazesob.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -13798,7 +13798,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=296&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0247-butterchickencur.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -13854,7 +13854,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=297&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0248-taiwanesebeefsha.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -13910,7 +13910,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=298&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0249-tokyoporkkatsudo.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -13966,7 +13966,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=299&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0250-japanesebeefgyud.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -14022,7 +14022,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=300&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0251-richtonkotsuchas.jpg",
     "caloriesApprox": 580,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -14078,7 +14078,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=301&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0252-vietnamesebeefph.jpg",
     "caloriesApprox": 421,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -14134,7 +14134,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=302&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0253-spicymalatanghot.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -14190,7 +14190,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=303&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0254-freshsalmondonbu.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -14246,7 +14246,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=304&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0255-thaishrimppadtha.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -14302,7 +14302,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=305&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0256-nagoyadrymazesob.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -14358,7 +14358,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=306&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0257-butterchickencur.jpg",
     "caloriesApprox": 596,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -14414,7 +14414,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=307&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0258-taiwanesebeefsha.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -14470,7 +14470,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=308&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0259-tokyoporkkatsudo.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -14526,7 +14526,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=309&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0260-japanesebeefgyud.jpg",
     "caloriesApprox": 589,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -14582,7 +14582,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=310&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0261-richtonkotsuchas.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -14638,7 +14638,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=311&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0262-vietnamesebeefph.jpg",
     "caloriesApprox": 431,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -14694,7 +14694,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=312&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0263-spicymalatanghot.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -14750,7 +14750,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=313&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0264-freshsalmondonbu.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -14806,7 +14806,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=314&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0265-thaishrimppadtha.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -14862,7 +14862,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=315&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0266-nagoyadrymazesob.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -14918,7 +14918,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=316&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0267-butterchickencur.jpg",
     "caloriesApprox": 606,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -14974,7 +14974,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=317&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0268-taiwanesebeefsha.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -15030,7 +15030,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=318&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0269-tokyoporkkatsudo.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -15086,7 +15086,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=319&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0270-japanesebeefgyud.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -15142,7 +15142,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=320&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0271-richtonkotsuchas.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -15198,7 +15198,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=321&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0272-vietnamesebeefph.jpg",
     "caloriesApprox": 441,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -15254,7 +15254,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=322&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0273-spicymalatanghot.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -15310,7 +15310,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=323&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0274-freshsalmondonbu.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -15366,7 +15366,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=324&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0275-thaishrimppadtha.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -15422,7 +15422,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=325&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0276-nagoyadrymazesob.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -15478,7 +15478,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=326&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0277-butterchickencur.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -15534,7 +15534,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=327&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0278-taiwanesebeefsha.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -15590,7 +15590,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=328&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0279-tokyoporkkatsudo.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -15646,7 +15646,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=329&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0280-japanesebeefgyud.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -15702,7 +15702,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 29호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.29 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=330&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0281-richtonkotsuchas.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -15758,7 +15758,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 29호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.29 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=331&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0282-vietnamesebeefph.jpg",
     "caloriesApprox": 451,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -15814,7 +15814,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 29호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.29 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=332&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0283-spicymalatanghot.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -15870,7 +15870,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 29호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.29 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=333&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0284-freshsalmondonbu.jpg",
     "caloriesApprox": 513,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -15926,7 +15926,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 29호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.29 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=334&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0285-thaishrimppadtha.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -15982,7 +15982,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 29호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.29 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=335&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0286-nagoyadrymazesob.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -16038,7 +16038,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 29호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.29 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=336&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0287-butterchickencur.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -16094,7 +16094,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 29호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.29 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=337&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0288-taiwanesebeefsha.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -16150,7 +16150,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 29호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.29 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=338&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0289-tokyoporkkatsudo.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -16206,7 +16206,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 29호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.29 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=339&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0290-japanesebeefgyud.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -16262,7 +16262,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 30호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.30 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=340&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0291-richtonkotsuchas.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -16318,7 +16318,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 30호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.30 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=341&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0292-vietnamesebeefph.jpg",
     "caloriesApprox": 461,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -16374,7 +16374,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 30호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.30 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=342&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0293-spicymalatanghot.jpg",
     "caloriesApprox": 692,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -16430,7 +16430,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 30호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.30 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=343&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0294-freshsalmondonbu.jpg",
     "caloriesApprox": 523,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -16486,7 +16486,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 30호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.30 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=344&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0295-thaishrimppadtha.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -16542,7 +16542,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 30호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.30 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=345&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0296-nagoyadrymazesob.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -16598,7 +16598,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 30호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.30 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=346&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0297-butterchickencur.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -16654,7 +16654,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 30호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.30 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=347&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0298-taiwanesebeefsha.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -16710,7 +16710,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 30호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.30 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=348&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0299-tokyoporkkatsudo.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -16766,7 +16766,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 30호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.30 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=349&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0300-japanesebeefgyud.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -16822,7 +16822,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 31호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.31 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=350&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0301-richtonkotsuchas.jpg",
     "caloriesApprox": 580,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -16878,7 +16878,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 31호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.31 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=351&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0302-vietnamesebeefph.jpg",
     "caloriesApprox": 421,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -16934,7 +16934,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 31호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.31 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=352&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0303-spicymalatanghot.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -16990,7 +16990,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 31호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.31 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=353&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0304-freshsalmondonbu.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -17046,7 +17046,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 31호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.31 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=354&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0305-thaishrimppadtha.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -17102,7 +17102,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 31호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.31 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=355&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0306-nagoyadrymazesob.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -17158,7 +17158,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 31호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.31 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=356&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0307-butterchickencur.jpg",
     "caloriesApprox": 596,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -17214,7 +17214,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 31호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.31 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=357&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0308-taiwanesebeefsha.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -17270,7 +17270,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 31호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.31 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=358&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0309-tokyoporkkatsudo.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -17326,7 +17326,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 31호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.31 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=359&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0310-japanesebeefgyud.jpg",
     "caloriesApprox": 589,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -17382,7 +17382,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 32호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.32 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=360&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0311-richtonkotsuchas.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -17438,7 +17438,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 32호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.32 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=361&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0312-vietnamesebeefph.jpg",
     "caloriesApprox": 431,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -17494,7 +17494,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 32호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.32 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=362&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0313-spicymalatanghot.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -17550,7 +17550,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 32호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.32 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=363&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0314-freshsalmondonbu.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -17606,7 +17606,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 32호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.32 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=364&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0315-thaishrimppadtha.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -17662,7 +17662,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 32호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.32 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=365&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0316-nagoyadrymazesob.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -17718,7 +17718,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 32호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.32 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=366&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0317-butterchickencur.jpg",
     "caloriesApprox": 606,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -17774,7 +17774,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 32호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.32 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=367&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0318-taiwanesebeefsha.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -17830,7 +17830,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 32호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.32 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=368&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0319-tokyoporkkatsudo.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -17886,7 +17886,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 32호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.32 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=369&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0320-japanesebeefgyud.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -17942,7 +17942,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 33호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.33 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=370&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0321-richtonkotsuchas.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -17998,7 +17998,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 33호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.33 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=371&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0322-vietnamesebeefph.jpg",
     "caloriesApprox": 441,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -18054,7 +18054,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 33호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.33 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=372&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0323-spicymalatanghot.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -18110,7 +18110,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 33호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.33 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=373&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0324-freshsalmondonbu.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -18166,7 +18166,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 33호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.33 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=374&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0325-thaishrimppadtha.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -18222,7 +18222,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 33호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.33 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=375&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0326-nagoyadrymazesob.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -18278,7 +18278,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 33호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.33 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=376&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0327-butterchickencur.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -18334,7 +18334,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 33호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.33 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=377&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0328-taiwanesebeefsha.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -18390,7 +18390,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 33호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.33 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=378&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0329-tokyoporkkatsudo.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -18446,7 +18446,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 33호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.33 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=379&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0330-japanesebeefgyud.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -18502,7 +18502,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 34호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.34 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=380&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0331-richtonkotsuchas.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -18558,7 +18558,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 34호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.34 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=381&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0332-vietnamesebeefph.jpg",
     "caloriesApprox": 451,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -18614,7 +18614,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 34호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.34 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=382&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0333-spicymalatanghot.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -18670,7 +18670,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 34호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.34 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=383&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0334-freshsalmondonbu.jpg",
     "caloriesApprox": 513,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -18726,7 +18726,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 34호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.34 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=384&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0335-thaishrimppadtha.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -18782,7 +18782,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 34호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.34 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=385&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0336-nagoyadrymazesob.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -18838,7 +18838,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 34호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.34 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=386&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0337-butterchickencur.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -18894,7 +18894,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 34호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.34 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=387&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0338-taiwanesebeefsha.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -18950,7 +18950,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 34호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.34 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=388&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0339-tokyoporkkatsudo.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -19006,7 +19006,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 34호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.34 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=389&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0340-japanesebeefgyud.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -19062,7 +19062,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 35호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.35 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=390&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0341-richtonkotsuchas.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -19118,7 +19118,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 35호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.35 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=391&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0342-vietnamesebeefph.jpg",
     "caloriesApprox": 461,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -19174,7 +19174,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 35호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.35 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=392&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0343-spicymalatanghot.jpg",
     "caloriesApprox": 692,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -19230,7 +19230,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 35호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.35 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=393&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0344-freshsalmondonbu.jpg",
     "caloriesApprox": 523,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -19286,7 +19286,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 35호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.35 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=394&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0345-thaishrimppadtha.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -19342,7 +19342,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 35호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.35 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=395&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0346-nagoyadrymazesob.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -19398,7 +19398,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 35호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.35 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=396&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0347-butterchickencur.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -19454,7 +19454,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 35호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.35 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=397&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0348-taiwanesebeefsha.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -19510,7 +19510,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 35호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.35 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=398&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0349-tokyoporkkatsudo.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -19566,7 +19566,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 35호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.35 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=399&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0350-japanesebeefgyud.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -19622,7 +19622,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 36호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.36 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=400&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0351-richtonkotsuchas.jpg",
     "caloriesApprox": 580,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -19678,7 +19678,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 36호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.36 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=401&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0352-vietnamesebeefph.jpg",
     "caloriesApprox": 421,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -19734,7 +19734,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 36호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.36 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=402&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0353-spicymalatanghot.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -19790,7 +19790,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 36호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.36 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=403&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0354-freshsalmondonbu.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -19846,7 +19846,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 36호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.36 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=404&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0355-thaishrimppadtha.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -19902,7 +19902,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 36호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.36 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=405&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0356-nagoyadrymazesob.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -19958,7 +19958,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 36호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.36 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=406&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0357-butterchickencur.jpg",
     "caloriesApprox": 596,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -20014,7 +20014,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 36호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.36 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=407&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0358-taiwanesebeefsha.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -20070,7 +20070,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 36호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.36 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=408&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0359-tokyoporkkatsudo.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -20126,7 +20126,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 36호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.36 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=409&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0360-japanesebeefgyud.jpg",
     "caloriesApprox": 589,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -20182,7 +20182,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 37호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.37 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=410&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0361-richtonkotsuchas.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -20238,7 +20238,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 37호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.37 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=411&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0362-vietnamesebeefph.jpg",
     "caloriesApprox": 431,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -20294,7 +20294,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 37호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.37 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=412&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0363-spicymalatanghot.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -20350,7 +20350,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 37호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.37 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=413&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0364-freshsalmondonbu.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -20406,7 +20406,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 37호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.37 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=414&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0365-thaishrimppadtha.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -20462,7 +20462,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 37호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.37 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=415&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0366-nagoyadrymazesob.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -20518,7 +20518,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 37호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.37 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=416&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0367-butterchickencur.jpg",
     "caloriesApprox": 606,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -20574,7 +20574,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 37호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.37 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=417&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0368-taiwanesebeefsha.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -20630,7 +20630,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 37호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.37 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=418&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0369-tokyoporkkatsudo.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -20686,7 +20686,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 37호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.37 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1617093727343-374698b1b08d?auto=format&fit=crop&w=800&q=80&sig=419&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0370-japanesebeefgyud.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [
@@ -20742,7 +20742,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 진한국물 돈코츠 차슈 라멘 38호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Rich Tonkotsu Chashu Ramen Var.38 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=420&food=rich-tonkotsu-chashu-rame",
+    "imageUrl": "/images/menus/asian-0371-richtonkotsuchas.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "진한국물 돈코츠 차슈 라멘 밀키트 라멘생면/육수",
     "ingredients": [
@@ -20798,7 +20798,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소고기 양지 쌀국수 포 38호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Vietnamese Beef Pho Var.38 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=421&food=vietnamese-beef-pho",
+    "imageUrl": "/images/menus/asian-0372-vietnamesebeefph.jpg",
     "caloriesApprox": 441,
     "coupangMealkitKeyword": "소고기 양지 쌀국수 포 밀키트 쌀국수면",
     "ingredients": [
@@ -20854,7 +20854,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼얼한 마라탕 푸주 당면 38호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Mala Tang Hotpot Var.38 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80&sig=422&food=spicy-mala-tang-hotpot",
+    "imageUrl": "/images/menus/asian-0373-spicymalatanghot.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "얼얼한 마라탕 푸주 당면 밀키트 마라탕소스",
     "ingredients": [
@@ -20910,7 +20910,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 특제 간장 생연어 사케동 38호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fresh Salmon Donburi Sakedon Var.38 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=423&food=fresh-salmon-donburi-sake",
+    "imageUrl": "/images/menus/asian-0374-freshsalmondonbu.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "특제 간장 생연어 사케동 밀키트 횟감생연어",
     "ingredients": [
@@ -20966,7 +20966,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 태국식 통새우 팟타이 38호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Thai Shrimp Pad Thai Var.38 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=424&food=thai-shrimp-pad-thai",
+    "imageUrl": "/images/menus/asian-0375-thaishrimppadtha.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "태국식 통새우 팟타이 밀키트 팟타이면/소스",
     "ingredients": [
@@ -21022,7 +21022,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 나고야식 매콤 마제소바 38호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Nagoya Dry Mazesoba Var.38 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=425&food=nagoya-dry-mazesoba",
+    "imageUrl": "/images/menus/asian-0376-nagoyadrymazesob.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "나고야식 매콤 마제소바 밀키트 중화생면",
     "ingredients": [
@@ -21078,7 +21078,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 버터치킨 커리 갈릭난 38호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Butter Chicken Curry & Naan Var.38 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80&sig=426&food=butter-chicken-curry---na",
+    "imageUrl": "/images/menus/asian-0377-butterchickencur.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "버터치킨 커리 갈릭난 밀키트 버터치킨커리소스",
     "ingredients": [
@@ -21134,7 +21134,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 대만식 아롱사태 우육면 38호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Taiwanese Beef Shank Noodles Var.38 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=427&food=taiwanese-beef-shank-nood",
+    "imageUrl": "/images/menus/asian-0378-taiwanesebeefsha.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "대만식 아롱사태 우육면 밀키트 우육탕면/육수",
     "ingredients": [
@@ -21190,7 +21190,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 도쿄 두툼 돈카츠 가츠동 38호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Tokyo Pork Katsudon Var.38 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80&sig=428&food=tokyo-pork-katsudon",
+    "imageUrl": "/images/menus/asian-0379-tokyoporkkatsudo.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "도쿄 두툼 돈카츠 가츠동 밀키트 등심돈카츠",
     "ingredients": [
@@ -21246,7 +21246,7 @@ export const ASIAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 요시노야 스타일 규동 38호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Japanese Beef Gyudon Var.38 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?auto=format&fit=crop&w=800&q=80&sig=429&food=japanese-beef-gyudon",
+    "imageUrl": "/images/menus/asian-0380-japanesebeefgyud.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "요시노야 스타일 규동 밀키트 우삼겹",
     "ingredients": [

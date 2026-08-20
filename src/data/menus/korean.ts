@@ -22,7 +22,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=50&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0001-beefbrisketdoenj.jpg",
     "caloriesApprox": 450,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -78,7 +78,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=51&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0002-porkbellykimchis.jpg",
     "caloriesApprox": 521,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -134,7 +134,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=52&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0003-spicyporkbulgogi.jpg",
     "caloriesApprox": 582,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -190,7 +190,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=53&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0004-seafoodsofttofus.jpg",
     "caloriesApprox": 383,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -246,7 +246,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=54&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0005-beefbulgogimushr.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -302,7 +302,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=55&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0006-spicybraisedchic.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -358,7 +358,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=56&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0007-royalbraisedbeef.jpg",
     "caloriesApprox": 726,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -414,7 +414,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=57&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0008-braisedmackerelk.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -470,7 +470,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=58&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0009-clearbeefradishs.jpg",
     "caloriesApprox": 328,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -526,7 +526,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=59&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0010-seafoodscallionp.jpg",
     "caloriesApprox": 519,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -582,7 +582,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=60&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0011-andongbraisedsoy.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -638,7 +638,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=61&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0012-spicybeefgopchan.jpg",
     "caloriesApprox": 691,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -694,7 +694,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=62&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0013-chuncheonspicyda.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -750,7 +750,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=63&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0014-spicypollockroea.jpg",
     "caloriesApprox": 433,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -806,7 +806,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=64&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0015-chewymarshsnails.jpg",
     "caloriesApprox": 354,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -862,7 +862,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=65&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0016-beolgyocockleric.jpg",
     "caloriesApprox": 475,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -918,7 +918,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=66&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0017-spicysquidporkbu.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -974,7 +974,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=67&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0018-oxkneecartilages.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -1030,7 +1030,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=68&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0019-perillapotatosuj.jpg",
     "caloriesApprox": 468,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -1086,7 +1086,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=69&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0020-busannakgopsaest.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -1142,7 +1142,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=70&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0021-beefbrisketdoenj.jpg",
     "caloriesApprox": 470,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -1198,7 +1198,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=71&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0022-porkbellykimchis.jpg",
     "caloriesApprox": 541,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -1254,7 +1254,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=72&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0023-spicyporkbulgogi.jpg",
     "caloriesApprox": 602,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -1310,7 +1310,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=73&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0024-seafoodsofttofus.jpg",
     "caloriesApprox": 403,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -1366,7 +1366,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=74&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0025-beefbulgogimushr.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -1422,7 +1422,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=75&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0026-spicybraisedchic.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -1478,7 +1478,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=76&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0027-royalbraisedbeef.jpg",
     "caloriesApprox": 746,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -1534,7 +1534,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=77&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0028-braisedmackerelk.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -1590,7 +1590,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=78&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0029-clearbeefradishs.jpg",
     "caloriesApprox": 348,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -1646,7 +1646,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=79&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0030-seafoodscallionp.jpg",
     "caloriesApprox": 539,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -1702,7 +1702,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=80&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0031-andongbraisedsoy.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -1758,7 +1758,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=81&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0032-spicybeefgopchan.jpg",
     "caloriesApprox": 711,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -1814,7 +1814,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=82&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0033-chuncheonspicyda.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -1870,7 +1870,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=83&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0034-spicypollockroea.jpg",
     "caloriesApprox": 453,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -1926,7 +1926,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=84&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0035-chewymarshsnails.jpg",
     "caloriesApprox": 374,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -1982,7 +1982,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=85&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0036-beolgyocockleric.jpg",
     "caloriesApprox": 495,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -2038,7 +2038,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=86&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0037-spicysquidporkbu.jpg",
     "caloriesApprox": 646,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -2094,7 +2094,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=87&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0038-oxkneecartilages.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -2150,7 +2150,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=88&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0039-perillapotatosuj.jpg",
     "caloriesApprox": 488,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -2206,7 +2206,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=89&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0040-busannakgopsaest.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -2262,7 +2262,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=90&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0041-beefbrisketdoenj.jpg",
     "caloriesApprox": 490,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -2318,7 +2318,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=91&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0042-porkbellykimchis.jpg",
     "caloriesApprox": 561,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -2374,7 +2374,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=92&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0043-spicyporkbulgogi.jpg",
     "caloriesApprox": 622,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -2430,7 +2430,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=93&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0044-seafoodsofttofus.jpg",
     "caloriesApprox": 423,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -2486,7 +2486,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=94&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0045-beefbulgogimushr.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -2542,7 +2542,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=95&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0046-spicybraisedchic.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -2598,7 +2598,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=96&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0047-royalbraisedbeef.jpg",
     "caloriesApprox": 766,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -2654,7 +2654,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=97&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0048-braisedmackerelk.jpg",
     "caloriesApprox": 537,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -2710,7 +2710,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=98&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0049-clearbeefradishs.jpg",
     "caloriesApprox": 368,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -2766,7 +2766,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=99&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0050-seafoodscallionp.jpg",
     "caloriesApprox": 559,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -2822,7 +2822,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=100&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0051-andongbraisedsoy.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -2878,7 +2878,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=101&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0052-spicybeefgopchan.jpg",
     "caloriesApprox": 681,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -2934,7 +2934,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=102&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0053-chuncheonspicyda.jpg",
     "caloriesApprox": 642,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -2990,7 +2990,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=103&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0054-spicypollockroea.jpg",
     "caloriesApprox": 423,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -3046,7 +3046,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=104&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0055-chewymarshsnails.jpg",
     "caloriesApprox": 344,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -3102,7 +3102,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=105&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0056-beolgyocockleric.jpg",
     "caloriesApprox": 465,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -3158,7 +3158,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=106&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0057-spicysquidporkbu.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -3214,7 +3214,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=107&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0058-oxkneecartilages.jpg",
     "caloriesApprox": 487,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -3270,7 +3270,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=108&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0059-perillapotatosuj.jpg",
     "caloriesApprox": 458,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -3326,7 +3326,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=109&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0060-busannakgopsaest.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -3382,7 +3382,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=110&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0061-beefbrisketdoenj.jpg",
     "caloriesApprox": 460,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -3438,7 +3438,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=111&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0062-porkbellykimchis.jpg",
     "caloriesApprox": 531,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -3494,7 +3494,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=112&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0063-spicyporkbulgogi.jpg",
     "caloriesApprox": 592,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -3550,7 +3550,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=113&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0064-seafoodsofttofus.jpg",
     "caloriesApprox": 393,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -3606,7 +3606,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=114&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0065-beefbulgogimushr.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -3662,7 +3662,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=115&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0066-spicybraisedchic.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -3718,7 +3718,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=116&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0067-royalbraisedbeef.jpg",
     "caloriesApprox": 736,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -3774,7 +3774,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=117&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0068-braisedmackerelk.jpg",
     "caloriesApprox": 507,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -3830,7 +3830,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=118&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0069-clearbeefradishs.jpg",
     "caloriesApprox": 338,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -3886,7 +3886,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=119&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0070-seafoodscallionp.jpg",
     "caloriesApprox": 529,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -3942,7 +3942,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=120&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0071-andongbraisedsoy.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -3998,7 +3998,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=121&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0072-spicybeefgopchan.jpg",
     "caloriesApprox": 701,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -4054,7 +4054,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=122&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0073-chuncheonspicyda.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -4110,7 +4110,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=123&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0074-spicypollockroea.jpg",
     "caloriesApprox": 443,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -4166,7 +4166,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=124&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0075-chewymarshsnails.jpg",
     "caloriesApprox": 364,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -4222,7 +4222,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=125&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0076-beolgyocockleric.jpg",
     "caloriesApprox": 485,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -4278,7 +4278,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=126&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0077-spicysquidporkbu.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -4334,7 +4334,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=127&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0078-oxkneecartilages.jpg",
     "caloriesApprox": 507,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -4390,7 +4390,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=128&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0079-perillapotatosuj.jpg",
     "caloriesApprox": 478,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -4446,7 +4446,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=129&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0080-busannakgopsaest.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -4502,7 +4502,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=130&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0081-beefbrisketdoenj.jpg",
     "caloriesApprox": 480,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -4558,7 +4558,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=131&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0082-porkbellykimchis.jpg",
     "caloriesApprox": 551,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -4614,7 +4614,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=132&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0083-spicyporkbulgogi.jpg",
     "caloriesApprox": 612,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -4670,7 +4670,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=133&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0084-seafoodsofttofus.jpg",
     "caloriesApprox": 413,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -4726,7 +4726,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=134&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0085-beefbulgogimushr.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -4782,7 +4782,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=135&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0086-spicybraisedchic.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -4838,7 +4838,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=136&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0087-royalbraisedbeef.jpg",
     "caloriesApprox": 756,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -4894,7 +4894,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=137&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0088-braisedmackerelk.jpg",
     "caloriesApprox": 527,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -4950,7 +4950,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=138&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0089-clearbeefradishs.jpg",
     "caloriesApprox": 358,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -5006,7 +5006,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=139&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0090-seafoodscallionp.jpg",
     "caloriesApprox": 549,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -5062,7 +5062,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=140&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0091-andongbraisedsoy.jpg",
     "caloriesApprox": 630,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -5118,7 +5118,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=141&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0092-spicybeefgopchan.jpg",
     "caloriesApprox": 721,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -5174,7 +5174,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=142&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0093-chuncheonspicyda.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -5230,7 +5230,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=143&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0094-spicypollockroea.jpg",
     "caloriesApprox": 463,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -5286,7 +5286,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=144&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0095-chewymarshsnails.jpg",
     "caloriesApprox": 384,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -5342,7 +5342,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=145&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0096-beolgyocockleric.jpg",
     "caloriesApprox": 505,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -5398,7 +5398,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=146&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0097-spicysquidporkbu.jpg",
     "caloriesApprox": 656,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -5454,7 +5454,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=147&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0098-oxkneecartilages.jpg",
     "caloriesApprox": 527,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -5510,7 +5510,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=148&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0099-perillapotatosuj.jpg",
     "caloriesApprox": 498,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -5566,7 +5566,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=149&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0100-busannakgopsaest.jpg",
     "caloriesApprox": 639,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -5622,7 +5622,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=150&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0101-beefbrisketdoenj.jpg",
     "caloriesApprox": 450,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -5678,7 +5678,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=151&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0102-porkbellykimchis.jpg",
     "caloriesApprox": 521,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -5734,7 +5734,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=152&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0103-spicyporkbulgogi.jpg",
     "caloriesApprox": 582,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -5790,7 +5790,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=153&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0104-seafoodsofttofus.jpg",
     "caloriesApprox": 383,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -5846,7 +5846,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=154&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0105-beefbulgogimushr.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -5902,7 +5902,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=155&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0106-spicybraisedchic.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -5958,7 +5958,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=156&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0107-royalbraisedbeef.jpg",
     "caloriesApprox": 726,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -6014,7 +6014,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=157&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0108-braisedmackerelk.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -6070,7 +6070,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=158&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0109-clearbeefradishs.jpg",
     "caloriesApprox": 328,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -6126,7 +6126,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=159&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0110-seafoodscallionp.jpg",
     "caloriesApprox": 519,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -6182,7 +6182,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=160&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0111-andongbraisedsoy.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -6238,7 +6238,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=161&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0112-spicybeefgopchan.jpg",
     "caloriesApprox": 691,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -6294,7 +6294,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=162&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0113-chuncheonspicyda.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -6350,7 +6350,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=163&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0114-spicypollockroea.jpg",
     "caloriesApprox": 433,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -6406,7 +6406,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=164&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0115-chewymarshsnails.jpg",
     "caloriesApprox": 354,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -6462,7 +6462,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=165&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0116-beolgyocockleric.jpg",
     "caloriesApprox": 475,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -6518,7 +6518,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=166&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0117-spicysquidporkbu.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -6574,7 +6574,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=167&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0118-oxkneecartilages.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -6630,7 +6630,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=168&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0119-perillapotatosuj.jpg",
     "caloriesApprox": 468,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -6686,7 +6686,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=169&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0120-busannakgopsaest.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -6742,7 +6742,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=170&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0121-beefbrisketdoenj.jpg",
     "caloriesApprox": 470,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -6798,7 +6798,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=171&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0122-porkbellykimchis.jpg",
     "caloriesApprox": 541,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -6854,7 +6854,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=172&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0123-spicyporkbulgogi.jpg",
     "caloriesApprox": 602,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -6910,7 +6910,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=173&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0124-seafoodsofttofus.jpg",
     "caloriesApprox": 403,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -6966,7 +6966,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=174&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0125-beefbulgogimushr.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -7022,7 +7022,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=175&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0126-spicybraisedchic.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -7078,7 +7078,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=176&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0127-royalbraisedbeef.jpg",
     "caloriesApprox": 746,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -7134,7 +7134,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=177&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0128-braisedmackerelk.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -7190,7 +7190,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=178&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0129-clearbeefradishs.jpg",
     "caloriesApprox": 348,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -7246,7 +7246,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=179&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0130-seafoodscallionp.jpg",
     "caloriesApprox": 539,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -7302,7 +7302,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=180&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0131-andongbraisedsoy.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -7358,7 +7358,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=181&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0132-spicybeefgopchan.jpg",
     "caloriesApprox": 711,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -7414,7 +7414,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=182&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0133-chuncheonspicyda.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -7470,7 +7470,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=183&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0134-spicypollockroea.jpg",
     "caloriesApprox": 453,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -7526,7 +7526,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=184&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0135-chewymarshsnails.jpg",
     "caloriesApprox": 374,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -7582,7 +7582,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=185&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0136-beolgyocockleric.jpg",
     "caloriesApprox": 495,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -7638,7 +7638,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=186&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0137-spicysquidporkbu.jpg",
     "caloriesApprox": 646,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -7694,7 +7694,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=187&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0138-oxkneecartilages.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -7750,7 +7750,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=188&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0139-perillapotatosuj.jpg",
     "caloriesApprox": 488,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -7806,7 +7806,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=189&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0140-busannakgopsaest.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -7862,7 +7862,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=190&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0141-beefbrisketdoenj.jpg",
     "caloriesApprox": 490,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -7918,7 +7918,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=191&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0142-porkbellykimchis.jpg",
     "caloriesApprox": 561,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -7974,7 +7974,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=192&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0143-spicyporkbulgogi.jpg",
     "caloriesApprox": 622,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -8030,7 +8030,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=193&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0144-seafoodsofttofus.jpg",
     "caloriesApprox": 423,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -8086,7 +8086,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=194&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0145-beefbulgogimushr.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -8142,7 +8142,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=195&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0146-spicybraisedchic.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -8198,7 +8198,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=196&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0147-royalbraisedbeef.jpg",
     "caloriesApprox": 766,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -8254,7 +8254,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=197&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0148-braisedmackerelk.jpg",
     "caloriesApprox": 537,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -8310,7 +8310,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=198&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0149-clearbeefradishs.jpg",
     "caloriesApprox": 368,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -8366,7 +8366,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=199&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0150-seafoodscallionp.jpg",
     "caloriesApprox": 559,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -8422,7 +8422,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=200&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0151-andongbraisedsoy.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -8478,7 +8478,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=201&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0152-spicybeefgopchan.jpg",
     "caloriesApprox": 681,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -8534,7 +8534,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=202&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0153-chuncheonspicyda.jpg",
     "caloriesApprox": 642,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -8590,7 +8590,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=203&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0154-spicypollockroea.jpg",
     "caloriesApprox": 423,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -8646,7 +8646,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=204&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0155-chewymarshsnails.jpg",
     "caloriesApprox": 344,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -8702,7 +8702,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=205&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0156-beolgyocockleric.jpg",
     "caloriesApprox": 465,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -8758,7 +8758,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=206&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0157-spicysquidporkbu.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -8814,7 +8814,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=207&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0158-oxkneecartilages.jpg",
     "caloriesApprox": 487,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -8870,7 +8870,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=208&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0159-perillapotatosuj.jpg",
     "caloriesApprox": 458,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -8926,7 +8926,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=209&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0160-busannakgopsaest.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -8982,7 +8982,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=210&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0161-beefbrisketdoenj.jpg",
     "caloriesApprox": 460,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -9038,7 +9038,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=211&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0162-porkbellykimchis.jpg",
     "caloriesApprox": 531,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -9094,7 +9094,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=212&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0163-spicyporkbulgogi.jpg",
     "caloriesApprox": 592,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -9150,7 +9150,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=213&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0164-seafoodsofttofus.jpg",
     "caloriesApprox": 393,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -9206,7 +9206,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=214&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0165-beefbulgogimushr.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -9262,7 +9262,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=215&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0166-spicybraisedchic.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -9318,7 +9318,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=216&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0167-royalbraisedbeef.jpg",
     "caloriesApprox": 736,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -9374,7 +9374,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=217&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0168-braisedmackerelk.jpg",
     "caloriesApprox": 507,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -9430,7 +9430,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=218&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0169-clearbeefradishs.jpg",
     "caloriesApprox": 338,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -9486,7 +9486,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=219&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0170-seafoodscallionp.jpg",
     "caloriesApprox": 529,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -9542,7 +9542,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=220&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0171-andongbraisedsoy.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -9598,7 +9598,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=221&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0172-spicybeefgopchan.jpg",
     "caloriesApprox": 701,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -9654,7 +9654,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=222&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0173-chuncheonspicyda.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -9710,7 +9710,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=223&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0174-spicypollockroea.jpg",
     "caloriesApprox": 443,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -9766,7 +9766,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=224&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0175-chewymarshsnails.jpg",
     "caloriesApprox": 364,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -9822,7 +9822,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=225&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0176-beolgyocockleric.jpg",
     "caloriesApprox": 485,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -9878,7 +9878,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=226&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0177-spicysquidporkbu.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -9934,7 +9934,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=227&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0178-oxkneecartilages.jpg",
     "caloriesApprox": 507,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -9990,7 +9990,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=228&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0179-perillapotatosuj.jpg",
     "caloriesApprox": 478,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -10046,7 +10046,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=229&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0180-busannakgopsaest.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -10102,7 +10102,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=230&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0181-beefbrisketdoenj.jpg",
     "caloriesApprox": 480,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -10158,7 +10158,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=231&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0182-porkbellykimchis.jpg",
     "caloriesApprox": 551,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -10214,7 +10214,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=232&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0183-spicyporkbulgogi.jpg",
     "caloriesApprox": 612,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -10270,7 +10270,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=233&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0184-seafoodsofttofus.jpg",
     "caloriesApprox": 413,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -10326,7 +10326,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=234&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0185-beefbulgogimushr.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -10382,7 +10382,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=235&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0186-spicybraisedchic.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -10438,7 +10438,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=236&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0187-royalbraisedbeef.jpg",
     "caloriesApprox": 756,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -10494,7 +10494,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=237&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0188-braisedmackerelk.jpg",
     "caloriesApprox": 527,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -10550,7 +10550,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=238&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0189-clearbeefradishs.jpg",
     "caloriesApprox": 358,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -10606,7 +10606,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=239&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0190-seafoodscallionp.jpg",
     "caloriesApprox": 549,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -10662,7 +10662,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=240&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0191-andongbraisedsoy.jpg",
     "caloriesApprox": 630,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -10718,7 +10718,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=241&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0192-spicybeefgopchan.jpg",
     "caloriesApprox": 721,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -10774,7 +10774,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=242&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0193-chuncheonspicyda.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -10830,7 +10830,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=243&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0194-spicypollockroea.jpg",
     "caloriesApprox": 463,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -10886,7 +10886,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=244&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0195-chewymarshsnails.jpg",
     "caloriesApprox": 384,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -10942,7 +10942,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=245&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0196-beolgyocockleric.jpg",
     "caloriesApprox": 505,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -10998,7 +10998,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=246&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0197-spicysquidporkbu.jpg",
     "caloriesApprox": 656,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -11054,7 +11054,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=247&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0198-oxkneecartilages.jpg",
     "caloriesApprox": 527,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -11110,7 +11110,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=248&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0199-perillapotatosuj.jpg",
     "caloriesApprox": 498,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -11166,7 +11166,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=249&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0200-busannakgopsaest.jpg",
     "caloriesApprox": 639,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -11222,7 +11222,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=250&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0201-beefbrisketdoenj.jpg",
     "caloriesApprox": 450,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -11278,7 +11278,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=251&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0202-porkbellykimchis.jpg",
     "caloriesApprox": 521,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -11334,7 +11334,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=252&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0203-spicyporkbulgogi.jpg",
     "caloriesApprox": 582,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -11390,7 +11390,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=253&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0204-seafoodsofttofus.jpg",
     "caloriesApprox": 383,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -11446,7 +11446,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=254&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0205-beefbulgogimushr.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -11502,7 +11502,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=255&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0206-spicybraisedchic.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -11558,7 +11558,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=256&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0207-royalbraisedbeef.jpg",
     "caloriesApprox": 726,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -11614,7 +11614,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=257&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0208-braisedmackerelk.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -11670,7 +11670,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=258&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0209-clearbeefradishs.jpg",
     "caloriesApprox": 328,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -11726,7 +11726,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=259&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0210-seafoodscallionp.jpg",
     "caloriesApprox": 519,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -11782,7 +11782,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=260&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0211-andongbraisedsoy.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -11838,7 +11838,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=261&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0212-spicybeefgopchan.jpg",
     "caloriesApprox": 691,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -11894,7 +11894,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=262&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0213-chuncheonspicyda.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -11950,7 +11950,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=263&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0214-spicypollockroea.jpg",
     "caloriesApprox": 433,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -12006,7 +12006,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=264&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0215-chewymarshsnails.jpg",
     "caloriesApprox": 354,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -12062,7 +12062,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=265&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0216-beolgyocockleric.jpg",
     "caloriesApprox": 475,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -12118,7 +12118,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=266&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0217-spicysquidporkbu.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -12174,7 +12174,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=267&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0218-oxkneecartilages.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -12230,7 +12230,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=268&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0219-perillapotatosuj.jpg",
     "caloriesApprox": 468,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -12286,7 +12286,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=269&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0220-busannakgopsaest.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -12342,7 +12342,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=270&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0221-beefbrisketdoenj.jpg",
     "caloriesApprox": 470,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -12398,7 +12398,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=271&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0222-porkbellykimchis.jpg",
     "caloriesApprox": 541,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -12454,7 +12454,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=272&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0223-spicyporkbulgogi.jpg",
     "caloriesApprox": 602,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -12510,7 +12510,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=273&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0224-seafoodsofttofus.jpg",
     "caloriesApprox": 403,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -12566,7 +12566,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=274&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0225-beefbulgogimushr.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -12622,7 +12622,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=275&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0226-spicybraisedchic.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -12678,7 +12678,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=276&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0227-royalbraisedbeef.jpg",
     "caloriesApprox": 746,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -12734,7 +12734,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=277&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0228-braisedmackerelk.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -12790,7 +12790,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=278&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0229-clearbeefradishs.jpg",
     "caloriesApprox": 348,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -12846,7 +12846,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=279&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0230-seafoodscallionp.jpg",
     "caloriesApprox": 539,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -12902,7 +12902,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=280&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0231-andongbraisedsoy.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -12958,7 +12958,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=281&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0232-spicybeefgopchan.jpg",
     "caloriesApprox": 711,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -13014,7 +13014,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=282&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0233-chuncheonspicyda.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -13070,7 +13070,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=283&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0234-spicypollockroea.jpg",
     "caloriesApprox": 453,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -13126,7 +13126,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=284&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0235-chewymarshsnails.jpg",
     "caloriesApprox": 374,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -13182,7 +13182,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=285&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0236-beolgyocockleric.jpg",
     "caloriesApprox": 495,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -13238,7 +13238,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=286&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0237-spicysquidporkbu.jpg",
     "caloriesApprox": 646,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -13294,7 +13294,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=287&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0238-oxkneecartilages.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -13350,7 +13350,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=288&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0239-perillapotatosuj.jpg",
     "caloriesApprox": 488,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -13406,7 +13406,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=289&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0240-busannakgopsaest.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -13462,7 +13462,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=290&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0241-beefbrisketdoenj.jpg",
     "caloriesApprox": 490,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -13518,7 +13518,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=291&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0242-porkbellykimchis.jpg",
     "caloriesApprox": 561,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -13574,7 +13574,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=292&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0243-spicyporkbulgogi.jpg",
     "caloriesApprox": 622,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -13630,7 +13630,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=293&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0244-seafoodsofttofus.jpg",
     "caloriesApprox": 423,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -13686,7 +13686,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=294&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0245-beefbulgogimushr.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -13742,7 +13742,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=295&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0246-spicybraisedchic.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -13798,7 +13798,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=296&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0247-royalbraisedbeef.jpg",
     "caloriesApprox": 766,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -13854,7 +13854,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=297&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0248-braisedmackerelk.jpg",
     "caloriesApprox": 537,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -13910,7 +13910,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=298&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0249-clearbeefradishs.jpg",
     "caloriesApprox": 368,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -13966,7 +13966,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=299&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0250-seafoodscallionp.jpg",
     "caloriesApprox": 559,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -14022,7 +14022,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=300&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0251-andongbraisedsoy.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -14078,7 +14078,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=301&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0252-spicybeefgopchan.jpg",
     "caloriesApprox": 681,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -14134,7 +14134,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=302&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0253-chuncheonspicyda.jpg",
     "caloriesApprox": 642,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -14190,7 +14190,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=303&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0254-spicypollockroea.jpg",
     "caloriesApprox": 423,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -14246,7 +14246,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=304&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0255-chewymarshsnails.jpg",
     "caloriesApprox": 344,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -14302,7 +14302,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=305&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0256-beolgyocockleric.jpg",
     "caloriesApprox": 465,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -14358,7 +14358,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=306&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0257-spicysquidporkbu.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -14414,7 +14414,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=307&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0258-oxkneecartilages.jpg",
     "caloriesApprox": 487,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -14470,7 +14470,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=308&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0259-perillapotatosuj.jpg",
     "caloriesApprox": 458,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -14526,7 +14526,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=309&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0260-busannakgopsaest.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -14582,7 +14582,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=310&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0261-beefbrisketdoenj.jpg",
     "caloriesApprox": 460,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -14638,7 +14638,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=311&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0262-porkbellykimchis.jpg",
     "caloriesApprox": 531,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -14694,7 +14694,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=312&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0263-spicyporkbulgogi.jpg",
     "caloriesApprox": 592,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -14750,7 +14750,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=313&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0264-seafoodsofttofus.jpg",
     "caloriesApprox": 393,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -14806,7 +14806,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=314&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0265-beefbulgogimushr.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -14862,7 +14862,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=315&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0266-spicybraisedchic.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -14918,7 +14918,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=316&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0267-royalbraisedbeef.jpg",
     "caloriesApprox": 736,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -14974,7 +14974,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=317&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0268-braisedmackerelk.jpg",
     "caloriesApprox": 507,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -15030,7 +15030,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=318&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0269-clearbeefradishs.jpg",
     "caloriesApprox": 338,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -15086,7 +15086,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=319&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0270-seafoodscallionp.jpg",
     "caloriesApprox": 529,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -15142,7 +15142,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=320&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0271-andongbraisedsoy.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -15198,7 +15198,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=321&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0272-spicybeefgopchan.jpg",
     "caloriesApprox": 701,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -15254,7 +15254,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=322&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0273-chuncheonspicyda.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -15310,7 +15310,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=323&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0274-spicypollockroea.jpg",
     "caloriesApprox": 443,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -15366,7 +15366,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=324&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0275-chewymarshsnails.jpg",
     "caloriesApprox": 364,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -15422,7 +15422,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=325&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0276-beolgyocockleric.jpg",
     "caloriesApprox": 485,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -15478,7 +15478,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=326&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0277-spicysquidporkbu.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -15534,7 +15534,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=327&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0278-oxkneecartilages.jpg",
     "caloriesApprox": 507,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -15590,7 +15590,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=328&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0279-perillapotatosuj.jpg",
     "caloriesApprox": 478,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -15646,7 +15646,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=329&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0280-busannakgopsaest.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -15702,7 +15702,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=330&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0281-beefbrisketdoenj.jpg",
     "caloriesApprox": 480,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -15758,7 +15758,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=331&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0282-porkbellykimchis.jpg",
     "caloriesApprox": 551,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -15814,7 +15814,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=332&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0283-spicyporkbulgogi.jpg",
     "caloriesApprox": 612,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -15870,7 +15870,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=333&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0284-seafoodsofttofus.jpg",
     "caloriesApprox": 413,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -15926,7 +15926,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=334&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0285-beefbulgogimushr.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -15982,7 +15982,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=335&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0286-spicybraisedchic.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -16038,7 +16038,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=336&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0287-royalbraisedbeef.jpg",
     "caloriesApprox": 756,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -16094,7 +16094,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=337&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0288-braisedmackerelk.jpg",
     "caloriesApprox": 527,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -16150,7 +16150,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=338&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0289-clearbeefradishs.jpg",
     "caloriesApprox": 358,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -16206,7 +16206,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=339&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0290-seafoodscallionp.jpg",
     "caloriesApprox": 549,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -16262,7 +16262,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=340&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0291-andongbraisedsoy.jpg",
     "caloriesApprox": 630,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -16318,7 +16318,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=341&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0292-spicybeefgopchan.jpg",
     "caloriesApprox": 721,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -16374,7 +16374,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=342&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0293-chuncheonspicyda.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -16430,7 +16430,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=343&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0294-spicypollockroea.jpg",
     "caloriesApprox": 463,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -16486,7 +16486,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=344&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0295-chewymarshsnails.jpg",
     "caloriesApprox": 384,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -16542,7 +16542,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=345&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0296-beolgyocockleric.jpg",
     "caloriesApprox": 505,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -16598,7 +16598,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=346&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0297-spicysquidporkbu.jpg",
     "caloriesApprox": 656,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -16654,7 +16654,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=347&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0298-oxkneecartilages.jpg",
     "caloriesApprox": 527,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -16710,7 +16710,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=348&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0299-perillapotatosuj.jpg",
     "caloriesApprox": 498,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -16766,7 +16766,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=349&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0300-busannakgopsaest.jpg",
     "caloriesApprox": 639,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -16822,7 +16822,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=350&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0301-beefbrisketdoenj.jpg",
     "caloriesApprox": 450,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -16878,7 +16878,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=351&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0302-porkbellykimchis.jpg",
     "caloriesApprox": 521,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -16934,7 +16934,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=352&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0303-spicyporkbulgogi.jpg",
     "caloriesApprox": 582,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -16990,7 +16990,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=353&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0304-seafoodsofttofus.jpg",
     "caloriesApprox": 383,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -17046,7 +17046,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=354&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0305-beefbulgogimushr.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -17102,7 +17102,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=355&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0306-spicybraisedchic.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -17158,7 +17158,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=356&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0307-royalbraisedbeef.jpg",
     "caloriesApprox": 726,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -17214,7 +17214,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=357&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0308-braisedmackerelk.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -17270,7 +17270,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=358&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0309-clearbeefradishs.jpg",
     "caloriesApprox": 328,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -17326,7 +17326,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=359&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0310-seafoodscallionp.jpg",
     "caloriesApprox": 519,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -17382,7 +17382,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=360&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0311-andongbraisedsoy.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -17438,7 +17438,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=361&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0312-spicybeefgopchan.jpg",
     "caloriesApprox": 691,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -17494,7 +17494,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=362&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0313-chuncheonspicyda.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -17550,7 +17550,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=363&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0314-spicypollockroea.jpg",
     "caloriesApprox": 433,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -17606,7 +17606,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=364&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0315-chewymarshsnails.jpg",
     "caloriesApprox": 354,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -17662,7 +17662,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=365&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0316-beolgyocockleric.jpg",
     "caloriesApprox": 475,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -17718,7 +17718,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=366&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0317-spicysquidporkbu.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -17774,7 +17774,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=367&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0318-oxkneecartilages.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -17830,7 +17830,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=368&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0319-perillapotatosuj.jpg",
     "caloriesApprox": 468,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -17886,7 +17886,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=369&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0320-busannakgopsaest.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -17942,7 +17942,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=370&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0321-beefbrisketdoenj.jpg",
     "caloriesApprox": 470,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -17998,7 +17998,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=371&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0322-porkbellykimchis.jpg",
     "caloriesApprox": 541,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -18054,7 +18054,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=372&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0323-spicyporkbulgogi.jpg",
     "caloriesApprox": 602,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -18110,7 +18110,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=373&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0324-seafoodsofttofus.jpg",
     "caloriesApprox": 403,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -18166,7 +18166,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=374&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0325-beefbulgogimushr.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -18222,7 +18222,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=375&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0326-spicybraisedchic.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -18278,7 +18278,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=376&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0327-royalbraisedbeef.jpg",
     "caloriesApprox": 746,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -18334,7 +18334,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=377&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0328-braisedmackerelk.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -18390,7 +18390,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=378&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0329-clearbeefradishs.jpg",
     "caloriesApprox": 348,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -18446,7 +18446,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=379&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0330-seafoodscallionp.jpg",
     "caloriesApprox": 539,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -18502,7 +18502,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=380&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0331-andongbraisedsoy.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -18558,7 +18558,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=381&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0332-spicybeefgopchan.jpg",
     "caloriesApprox": 711,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -18614,7 +18614,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=382&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0333-chuncheonspicyda.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -18670,7 +18670,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=383&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0334-spicypollockroea.jpg",
     "caloriesApprox": 453,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -18726,7 +18726,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=384&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0335-chewymarshsnails.jpg",
     "caloriesApprox": 374,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -18782,7 +18782,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=385&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0336-beolgyocockleric.jpg",
     "caloriesApprox": 495,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -18838,7 +18838,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=386&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0337-spicysquidporkbu.jpg",
     "caloriesApprox": 646,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -18894,7 +18894,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=387&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0338-oxkneecartilages.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -18950,7 +18950,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=388&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0339-perillapotatosuj.jpg",
     "caloriesApprox": 488,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -19006,7 +19006,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=389&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0340-busannakgopsaest.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -19062,7 +19062,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=390&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0341-beefbrisketdoenj.jpg",
     "caloriesApprox": 490,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -19118,7 +19118,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=391&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0342-porkbellykimchis.jpg",
     "caloriesApprox": 561,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -19174,7 +19174,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=392&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0343-spicyporkbulgogi.jpg",
     "caloriesApprox": 622,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -19230,7 +19230,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=393&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0344-seafoodsofttofus.jpg",
     "caloriesApprox": 423,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -19286,7 +19286,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=394&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0345-beefbulgogimushr.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -19342,7 +19342,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=395&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0346-spicybraisedchic.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -19398,7 +19398,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=396&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0347-royalbraisedbeef.jpg",
     "caloriesApprox": 766,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -19454,7 +19454,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=397&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0348-braisedmackerelk.jpg",
     "caloriesApprox": 537,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -19510,7 +19510,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=398&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0349-clearbeefradishs.jpg",
     "caloriesApprox": 368,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -19566,7 +19566,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=399&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0350-seafoodscallionp.jpg",
     "caloriesApprox": 559,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -19622,7 +19622,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=400&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0351-andongbraisedsoy.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -19678,7 +19678,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=401&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0352-spicybeefgopchan.jpg",
     "caloriesApprox": 681,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -19734,7 +19734,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=402&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0353-chuncheonspicyda.jpg",
     "caloriesApprox": 642,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -19790,7 +19790,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=403&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0354-spicypollockroea.jpg",
     "caloriesApprox": 423,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -19846,7 +19846,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=404&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0355-chewymarshsnails.jpg",
     "caloriesApprox": 344,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -19902,7 +19902,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=405&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0356-beolgyocockleric.jpg",
     "caloriesApprox": 465,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -19958,7 +19958,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=406&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0357-spicysquidporkbu.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -20014,7 +20014,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=407&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0358-oxkneecartilages.jpg",
     "caloriesApprox": 487,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -20070,7 +20070,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=408&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0359-perillapotatosuj.jpg",
     "caloriesApprox": 458,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -20126,7 +20126,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=409&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0360-busannakgopsaest.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -20182,7 +20182,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=410&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0361-beefbrisketdoenj.jpg",
     "caloriesApprox": 460,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -20238,7 +20238,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=411&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0362-porkbellykimchis.jpg",
     "caloriesApprox": 531,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -20294,7 +20294,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=412&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0363-spicyporkbulgogi.jpg",
     "caloriesApprox": 592,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -20350,7 +20350,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=413&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0364-seafoodsofttofus.jpg",
     "caloriesApprox": 393,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -20406,7 +20406,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=414&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0365-beefbulgogimushr.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -20462,7 +20462,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=415&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0366-spicybraisedchic.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -20518,7 +20518,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=416&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0367-royalbraisedbeef.jpg",
     "caloriesApprox": 736,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -20574,7 +20574,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=417&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0368-braisedmackerelk.jpg",
     "caloriesApprox": 507,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -20630,7 +20630,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=418&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0369-clearbeefradishs.jpg",
     "caloriesApprox": 338,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -20686,7 +20686,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=419&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0370-seafoodscallionp.jpg",
     "caloriesApprox": 529,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -20742,7 +20742,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=420&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0371-andongbraisedsoy.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -20798,7 +20798,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=421&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0372-spicybeefgopchan.jpg",
     "caloriesApprox": 701,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -20854,7 +20854,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=422&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0373-chuncheonspicyda.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -20910,7 +20910,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=423&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0374-spicypollockroea.jpg",
     "caloriesApprox": 443,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -20966,7 +20966,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=424&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0375-chewymarshsnails.jpg",
     "caloriesApprox": 364,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -21022,7 +21022,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=425&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0376-beolgyocockleric.jpg",
     "caloriesApprox": 485,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -21078,7 +21078,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=426&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0377-spicysquidporkbu.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -21134,7 +21134,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=427&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0378-oxkneecartilages.jpg",
     "caloriesApprox": 507,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -21190,7 +21190,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=428&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0379-perillapotatosuj.jpg",
     "caloriesApprox": 478,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -21246,7 +21246,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=429&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0380-busannakgopsaest.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -21302,7 +21302,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=430&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0381-beefbrisketdoenj.jpg",
     "caloriesApprox": 480,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -21358,7 +21358,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=431&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0382-porkbellykimchis.jpg",
     "caloriesApprox": 551,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -21414,7 +21414,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=432&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0383-spicyporkbulgogi.jpg",
     "caloriesApprox": 612,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -21470,7 +21470,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=433&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0384-seafoodsofttofus.jpg",
     "caloriesApprox": 413,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -21526,7 +21526,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=434&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0385-beefbulgogimushr.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -21582,7 +21582,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=435&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0386-spicybraisedchic.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -21638,7 +21638,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=436&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0387-royalbraisedbeef.jpg",
     "caloriesApprox": 756,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -21694,7 +21694,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=437&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0388-braisedmackerelk.jpg",
     "caloriesApprox": 527,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -21750,7 +21750,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=438&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0389-clearbeefradishs.jpg",
     "caloriesApprox": 358,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -21806,7 +21806,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=439&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0390-seafoodscallionp.jpg",
     "caloriesApprox": 549,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -21862,7 +21862,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=440&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0391-andongbraisedsoy.jpg",
     "caloriesApprox": 630,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -21918,7 +21918,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=441&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0392-spicybeefgopchan.jpg",
     "caloriesApprox": 721,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -21974,7 +21974,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=442&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0393-chuncheonspicyda.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -22030,7 +22030,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=443&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0394-spicypollockroea.jpg",
     "caloriesApprox": 463,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -22086,7 +22086,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=444&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0395-chewymarshsnails.jpg",
     "caloriesApprox": 384,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -22142,7 +22142,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=445&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0396-beolgyocockleric.jpg",
     "caloriesApprox": 505,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -22198,7 +22198,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=446&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0397-spicysquidporkbu.jpg",
     "caloriesApprox": 656,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -22254,7 +22254,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=447&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0398-oxkneecartilages.jpg",
     "caloriesApprox": 527,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -22310,7 +22310,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=448&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0399-perillapotatosuj.jpg",
     "caloriesApprox": 498,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -22366,7 +22366,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=449&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0400-busannakgopsaest.jpg",
     "caloriesApprox": 639,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -22422,7 +22422,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=450&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0401-beefbrisketdoenj.jpg",
     "caloriesApprox": 450,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -22478,7 +22478,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=451&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0402-porkbellykimchis.jpg",
     "caloriesApprox": 521,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -22534,7 +22534,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=452&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0403-spicyporkbulgogi.jpg",
     "caloriesApprox": 582,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -22590,7 +22590,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=453&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0404-seafoodsofttofus.jpg",
     "caloriesApprox": 383,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -22646,7 +22646,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=454&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0405-beefbulgogimushr.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -22702,7 +22702,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=455&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0406-spicybraisedchic.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -22758,7 +22758,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=456&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0407-royalbraisedbeef.jpg",
     "caloriesApprox": 726,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -22814,7 +22814,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=457&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0408-braisedmackerelk.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -22870,7 +22870,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=458&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0409-clearbeefradishs.jpg",
     "caloriesApprox": 328,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -22926,7 +22926,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=459&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0410-seafoodscallionp.jpg",
     "caloriesApprox": 519,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -22982,7 +22982,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=460&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0411-andongbraisedsoy.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -23038,7 +23038,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=461&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0412-spicybeefgopchan.jpg",
     "caloriesApprox": 691,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -23094,7 +23094,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=462&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0413-chuncheonspicyda.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -23150,7 +23150,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=463&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0414-spicypollockroea.jpg",
     "caloriesApprox": 433,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -23206,7 +23206,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=464&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0415-chewymarshsnails.jpg",
     "caloriesApprox": 354,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -23262,7 +23262,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=465&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0416-beolgyocockleric.jpg",
     "caloriesApprox": 475,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -23318,7 +23318,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=466&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0417-spicysquidporkbu.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -23374,7 +23374,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=467&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0418-oxkneecartilages.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -23430,7 +23430,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=468&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0419-perillapotatosuj.jpg",
     "caloriesApprox": 468,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -23486,7 +23486,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=469&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0420-busannakgopsaest.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -23542,7 +23542,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=470&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0421-beefbrisketdoenj.jpg",
     "caloriesApprox": 470,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -23598,7 +23598,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=471&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0422-porkbellykimchis.jpg",
     "caloriesApprox": 541,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -23654,7 +23654,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=472&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0423-spicyporkbulgogi.jpg",
     "caloriesApprox": 602,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -23710,7 +23710,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=473&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0424-seafoodsofttofus.jpg",
     "caloriesApprox": 403,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -23766,7 +23766,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=474&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0425-beefbulgogimushr.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -23822,7 +23822,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=475&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0426-spicybraisedchic.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -23878,7 +23878,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=476&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0427-royalbraisedbeef.jpg",
     "caloriesApprox": 746,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -23934,7 +23934,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=477&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0428-braisedmackerelk.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -23990,7 +23990,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=478&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0429-clearbeefradishs.jpg",
     "caloriesApprox": 348,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -24046,7 +24046,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=479&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0430-seafoodscallionp.jpg",
     "caloriesApprox": 539,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -24102,7 +24102,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=480&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0431-andongbraisedsoy.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -24158,7 +24158,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=481&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0432-spicybeefgopchan.jpg",
     "caloriesApprox": 711,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -24214,7 +24214,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=482&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0433-chuncheonspicyda.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -24270,7 +24270,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=483&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0434-spicypollockroea.jpg",
     "caloriesApprox": 453,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -24326,7 +24326,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=484&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0435-chewymarshsnails.jpg",
     "caloriesApprox": 374,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -24382,7 +24382,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=485&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0436-beolgyocockleric.jpg",
     "caloriesApprox": 495,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -24438,7 +24438,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=486&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0437-spicysquidporkbu.jpg",
     "caloriesApprox": 646,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -24494,7 +24494,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=487&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0438-oxkneecartilages.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -24550,7 +24550,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=488&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0439-perillapotatosuj.jpg",
     "caloriesApprox": 488,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -24606,7 +24606,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=489&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0440-busannakgopsaest.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -24662,7 +24662,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=490&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0441-beefbrisketdoenj.jpg",
     "caloriesApprox": 490,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -24718,7 +24718,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=491&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0442-porkbellykimchis.jpg",
     "caloriesApprox": 561,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -24774,7 +24774,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=492&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0443-spicyporkbulgogi.jpg",
     "caloriesApprox": 622,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -24830,7 +24830,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=493&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0444-seafoodsofttofus.jpg",
     "caloriesApprox": 423,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -24886,7 +24886,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=494&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0445-beefbulgogimushr.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -24942,7 +24942,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=495&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0446-spicybraisedchic.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -24998,7 +24998,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=496&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0447-royalbraisedbeef.jpg",
     "caloriesApprox": 766,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -25054,7 +25054,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=497&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0448-braisedmackerelk.jpg",
     "caloriesApprox": 537,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -25110,7 +25110,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=498&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0449-clearbeefradishs.jpg",
     "caloriesApprox": 368,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -25166,7 +25166,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=499&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0450-seafoodscallionp.jpg",
     "caloriesApprox": 559,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -25222,7 +25222,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=500&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0451-andongbraisedsoy.jpg",
     "caloriesApprox": 590,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -25278,7 +25278,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=501&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0452-spicybeefgopchan.jpg",
     "caloriesApprox": 681,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -25334,7 +25334,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=502&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0453-chuncheonspicyda.jpg",
     "caloriesApprox": 642,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -25390,7 +25390,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=503&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0454-spicypollockroea.jpg",
     "caloriesApprox": 423,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -25446,7 +25446,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=504&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0455-chewymarshsnails.jpg",
     "caloriesApprox": 344,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -25502,7 +25502,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=505&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0456-beolgyocockleric.jpg",
     "caloriesApprox": 465,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -25558,7 +25558,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=506&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0457-spicysquidporkbu.jpg",
     "caloriesApprox": 616,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -25614,7 +25614,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=507&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0458-oxkneecartilages.jpg",
     "caloriesApprox": 487,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -25670,7 +25670,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=508&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0459-perillapotatosuj.jpg",
     "caloriesApprox": 458,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -25726,7 +25726,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=509&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0460-busannakgopsaest.jpg",
     "caloriesApprox": 599,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -25782,7 +25782,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=510&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0461-beefbrisketdoenj.jpg",
     "caloriesApprox": 460,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -25838,7 +25838,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=511&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0462-porkbellykimchis.jpg",
     "caloriesApprox": 531,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -25894,7 +25894,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=512&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0463-spicyporkbulgogi.jpg",
     "caloriesApprox": 592,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -25950,7 +25950,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=513&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0464-seafoodsofttofus.jpg",
     "caloriesApprox": 393,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -26006,7 +26006,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=514&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0465-beefbulgogimushr.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -26062,7 +26062,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=515&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0466-spicybraisedchic.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -26118,7 +26118,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=516&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0467-royalbraisedbeef.jpg",
     "caloriesApprox": 736,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -26174,7 +26174,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=517&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0468-braisedmackerelk.jpg",
     "caloriesApprox": 507,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -26230,7 +26230,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=518&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0469-clearbeefradishs.jpg",
     "caloriesApprox": 338,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -26286,7 +26286,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=519&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0470-seafoodscallionp.jpg",
     "caloriesApprox": 529,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -26342,7 +26342,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=520&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0471-andongbraisedsoy.jpg",
     "caloriesApprox": 610,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -26398,7 +26398,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=521&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0472-spicybeefgopchan.jpg",
     "caloriesApprox": 701,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -26454,7 +26454,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=522&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0473-chuncheonspicyda.jpg",
     "caloriesApprox": 662,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -26510,7 +26510,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=523&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0474-spicypollockroea.jpg",
     "caloriesApprox": 443,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -26566,7 +26566,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=524&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0475-chewymarshsnails.jpg",
     "caloriesApprox": 364,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -26622,7 +26622,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=525&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0476-beolgyocockleric.jpg",
     "caloriesApprox": 485,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -26678,7 +26678,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=526&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0477-spicysquidporkbu.jpg",
     "caloriesApprox": 636,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -26734,7 +26734,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=527&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0478-oxkneecartilages.jpg",
     "caloriesApprox": 507,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -26790,7 +26790,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=528&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0479-perillapotatosuj.jpg",
     "caloriesApprox": 478,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -26846,7 +26846,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=529&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0480-busannakgopsaest.jpg",
     "caloriesApprox": 619,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -26902,7 +26902,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=530&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0481-beefbrisketdoenj.jpg",
     "caloriesApprox": 480,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -26958,7 +26958,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=531&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0482-porkbellykimchis.jpg",
     "caloriesApprox": 551,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -27014,7 +27014,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=532&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0483-spicyporkbulgogi.jpg",
     "caloriesApprox": 612,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -27070,7 +27070,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=533&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0484-seafoodsofttofus.jpg",
     "caloriesApprox": 413,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -27126,7 +27126,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=534&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0485-beefbulgogimushr.jpg",
     "caloriesApprox": 574,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -27182,7 +27182,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=535&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0486-spicybraisedchic.jpg",
     "caloriesApprox": 645,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -27238,7 +27238,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=536&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0487-royalbraisedbeef.jpg",
     "caloriesApprox": 756,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -27294,7 +27294,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=537&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0488-braisedmackerelk.jpg",
     "caloriesApprox": 527,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -27350,7 +27350,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=538&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0489-clearbeefradishs.jpg",
     "caloriesApprox": 358,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -27406,7 +27406,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=539&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0490-seafoodscallionp.jpg",
     "caloriesApprox": 549,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -27462,7 +27462,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=540&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0491-andongbraisedsoy.jpg",
     "caloriesApprox": 630,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -27518,7 +27518,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=541&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0492-spicybeefgopchan.jpg",
     "caloriesApprox": 721,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -27574,7 +27574,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=542&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0493-chuncheonspicyda.jpg",
     "caloriesApprox": 682,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -27630,7 +27630,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=543&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0494-spicypollockroea.jpg",
     "caloriesApprox": 463,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -27686,7 +27686,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=544&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0495-chewymarshsnails.jpg",
     "caloriesApprox": 384,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -27742,7 +27742,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=545&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0496-beolgyocockleric.jpg",
     "caloriesApprox": 505,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -27798,7 +27798,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=546&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0497-spicysquidporkbu.jpg",
     "caloriesApprox": 656,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -27854,7 +27854,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=547&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0498-oxkneecartilages.jpg",
     "caloriesApprox": 527,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -27910,7 +27910,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=548&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0499-perillapotatosuj.jpg",
     "caloriesApprox": 498,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -27966,7 +27966,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=549&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0500-busannakgopsaest.jpg",
     "caloriesApprox": 639,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -28022,7 +28022,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=550&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0501-beefbrisketdoenj.jpg",
     "caloriesApprox": 450,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -28078,7 +28078,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=551&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0502-porkbellykimchis.jpg",
     "caloriesApprox": 521,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -28134,7 +28134,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=552&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0503-spicyporkbulgogi.jpg",
     "caloriesApprox": 582,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -28190,7 +28190,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=553&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0504-seafoodsofttofus.jpg",
     "caloriesApprox": 383,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -28246,7 +28246,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=554&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0505-beefbulgogimushr.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -28302,7 +28302,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=555&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0506-spicybraisedchic.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -28358,7 +28358,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=556&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0507-royalbraisedbeef.jpg",
     "caloriesApprox": 726,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -28414,7 +28414,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=557&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0508-braisedmackerelk.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -28470,7 +28470,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=558&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0509-clearbeefradishs.jpg",
     "caloriesApprox": 328,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -28526,7 +28526,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=559&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0510-seafoodscallionp.jpg",
     "caloriesApprox": 519,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -28582,7 +28582,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=560&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0511-andongbraisedsoy.jpg",
     "caloriesApprox": 600,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -28638,7 +28638,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=561&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0512-spicybeefgopchan.jpg",
     "caloriesApprox": 691,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -28694,7 +28694,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=562&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0513-chuncheonspicyda.jpg",
     "caloriesApprox": 652,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -28750,7 +28750,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=563&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0514-spicypollockroea.jpg",
     "caloriesApprox": 433,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -28806,7 +28806,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=564&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0515-chewymarshsnails.jpg",
     "caloriesApprox": 354,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -28862,7 +28862,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=565&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0516-beolgyocockleric.jpg",
     "caloriesApprox": 475,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -28918,7 +28918,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=566&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0517-spicysquidporkbu.jpg",
     "caloriesApprox": 626,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -28974,7 +28974,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=567&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0518-oxkneecartilages.jpg",
     "caloriesApprox": 497,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -29030,7 +29030,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=568&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0519-perillapotatosuj.jpg",
     "caloriesApprox": 468,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -29086,7 +29086,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=569&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0520-busannakgopsaest.jpg",
     "caloriesApprox": 609,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -29142,7 +29142,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=570&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0521-beefbrisketdoenj.jpg",
     "caloriesApprox": 470,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -29198,7 +29198,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=571&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0522-porkbellykimchis.jpg",
     "caloriesApprox": 541,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -29254,7 +29254,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=572&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0523-spicyporkbulgogi.jpg",
     "caloriesApprox": 602,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -29310,7 +29310,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=573&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0524-seafoodsofttofus.jpg",
     "caloriesApprox": 403,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -29366,7 +29366,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=574&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0525-beefbulgogimushr.jpg",
     "caloriesApprox": 564,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -29422,7 +29422,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=575&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0526-spicybraisedchic.jpg",
     "caloriesApprox": 635,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -29478,7 +29478,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=576&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0527-royalbraisedbeef.jpg",
     "caloriesApprox": 746,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -29534,7 +29534,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=577&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0528-braisedmackerelk.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -29590,7 +29590,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=578&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0529-clearbeefradishs.jpg",
     "caloriesApprox": 348,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -29646,7 +29646,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=579&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0530-seafoodscallionp.jpg",
     "caloriesApprox": 539,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [
@@ -29702,7 +29702,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 안동 순살 찜닭 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Andong Braised Soy Chicken Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=580&food=andong-braised-soy-chicke",
+    "imageUrl": "/images/menus/korean-0531-andongbraisedsoy.jpg",
     "caloriesApprox": 620,
     "coupangMealkitKeyword": "안동 순살 찜닭 밀키트 닭다리살",
     "ingredients": [
@@ -29758,7 +29758,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 소곱창 전골 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Beef Gopchang Hotpot Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=581&food=spicy-beef-gopchang-hotpo",
+    "imageUrl": "/images/menus/korean-0532-spicybeefgopchan.jpg",
     "caloriesApprox": 711,
     "coupangMealkitKeyword": "얼큰 소곱창 전골 밀키트 손질소곱창",
     "ingredients": [
@@ -29814,7 +29814,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 춘천 철판 닭갈비 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chuncheon Spicy Dakgalbi Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=582&food=chuncheon-spicy-dakgalbi",
+    "imageUrl": "/images/menus/korean-0533-chuncheonspicyda.jpg",
     "caloriesApprox": 672,
     "coupangMealkitKeyword": "춘천 철판 닭갈비 밀키트 양념닭갈비",
     "ingredients": [
@@ -29870,7 +29870,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 얼큰 알탕 해물전골 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pollock Roe Altang Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=583&food=spicy-pollock-roe-altang",
+    "imageUrl": "/images/menus/korean-0534-spicypollockroea.jpg",
     "caloriesApprox": 453,
     "coupangMealkitKeyword": "얼큰 알탕 해물전골 밀키트 명태알/곤이",
     "ingredients": [
@@ -29926,7 +29926,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 우렁 강된장 쌈밥 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Chewy Marsh Snail Ssamjang Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=584&food=chewy-marsh-snail-ssamjan",
+    "imageUrl": "/images/menus/korean-0535-chewymarshsnails.jpg",
     "caloriesApprox": 374,
     "coupangMealkitKeyword": "우렁 강된장 쌈밥 밀키트 논우렁살",
     "ingredients": [
@@ -29982,7 +29982,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 벌교 꼬막 비빔밥 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beolgyo Cockle Rice Bowl Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=585&food=beolgyo-cockle-rice-bowl",
+    "imageUrl": "/images/menus/korean-0536-beolgyocockleric.jpg",
     "caloriesApprox": 495,
     "coupangMealkitKeyword": "벌교 꼬막 비빔밥 밀키트 자숙꼬막살",
     "ingredients": [
@@ -30038,7 +30038,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 오삼불고기 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Squid & Pork Bulgogi Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=586&food=spicy-squid---pork-bulgog",
+    "imageUrl": "/images/menus/korean-0537-spicysquidporkbu.jpg",
     "caloriesApprox": 646,
     "coupangMealkitKeyword": "매콤 오삼불고기 밀키트 손질오징어",
     "ingredients": [
@@ -30094,7 +30094,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 한우 도가니탕 스지수육 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Ox Knee Cartilage Soup Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80&sig=587&food=ox-knee-cartilage-soup",
+    "imageUrl": "/images/menus/korean-0538-oxkneecartilages.jpg",
     "caloriesApprox": 517,
     "coupangMealkitKeyword": "한우 도가니탕 스지수육 밀키트 도가니스지",
     "ingredients": [
@@ -30150,7 +30150,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 고소한 들깨 감자수제비 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Perilla Potato Sujebi Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80&sig=588&food=perilla-potato-sujebi",
+    "imageUrl": "/images/menus/korean-0539-perillapotatosuj.jpg",
     "caloriesApprox": 488,
     "coupangMealkitKeyword": "고소한 들깨 감자수제비 밀키트 생감자수제비",
     "ingredients": [
@@ -30206,7 +30206,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 부산 원조 낙곱새 전골 27호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Busan Nak-Gop-Sae Stew Var.27 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=800&q=80&sig=589&food=busan-nak-gop-sae-stew",
+    "imageUrl": "/images/menus/korean-0540-busannakgopsaest.jpg",
     "caloriesApprox": 629,
     "coupangMealkitKeyword": "부산 원조 낙곱새 전골 밀키트 낙지/대창/새우",
     "ingredients": [
@@ -30262,7 +30262,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 차돌박이 된장찌개 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Brisket Doenjang Stew Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1583032015879-c631a0e13998?auto=format&fit=crop&w=800&q=80&sig=590&food=beef-brisket-doenjang-ste",
+    "imageUrl": "/images/menus/korean-0541-beefbrisketdoenj.jpg",
     "caloriesApprox": 490,
     "coupangMealkitKeyword": "차돌박이 된장찌개 밀키트 차돌박이",
     "ingredients": [
@@ -30318,7 +30318,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통돼지 묵은지 김치찌개 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Pork Belly Kimchi Stew Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=800&q=80&sig=591&food=pork-belly-kimchi-stew",
+    "imageUrl": "/images/menus/korean-0542-porkbellykimchis.jpg",
     "caloriesApprox": 561,
     "coupangMealkitKeyword": "통돼지 묵은지 김치찌개 밀키트 돼지앞다리살",
     "ingredients": [
@@ -30374,7 +30374,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 불맛 제육볶음 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Pork Bulgogi Jeyuk Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80&sig=592&food=spicy-pork-bulgogi-jeyuk",
+    "imageUrl": "/images/menus/korean-0543-spicyporkbulgogi.jpg",
     "caloriesApprox": 622,
     "coupangMealkitKeyword": "불맛 제육볶음 밀키트 돼지앞다리살",
     "ingredients": [
@@ -30430,7 +30430,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 바지락 순두부찌개 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Soft Tofu Stew Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80&sig=593&food=seafood-soft-tofu-stew",
+    "imageUrl": "/images/menus/korean-0544-seafoodsofttofus.jpg",
     "caloriesApprox": 423,
     "coupangMealkitKeyword": "해물 바지락 순두부찌개 밀키트 순두부",
     "ingredients": [
@@ -30486,7 +30486,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 소불고기 버섯전골 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Beef Bulgogi Mushroom Hotpot Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80&sig=594&food=beef-bulgogi-mushroom-hot",
+    "imageUrl": "/images/menus/korean-0545-beefbulgogimushr.jpg",
     "caloriesApprox": 584,
     "coupangMealkitKeyword": "소불고기 버섯전골 밀키트 양념 소불고기",
     "ingredients": [
@@ -30542,7 +30542,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 매콤 칼칼 닭볶음탕 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Spicy Braised Chicken Stew Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80&sig=595&food=spicy-braised-chicken-ste",
+    "imageUrl": "/images/menus/korean-0546-spicybraisedchic.jpg",
     "caloriesApprox": 655,
     "coupangMealkitKeyword": "매콤 칼칼 닭볶음탕 밀키트 손질생닭",
     "ingredients": [
@@ -30598,7 +30598,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 궁중 소갈비찜 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Royal Braised Beef Ribs Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1547928576-a4a33237cbc3?auto=format&fit=crop&w=800&q=80&sig=596&food=royal-braised-beef-ribs",
+    "imageUrl": "/images/menus/korean-0547-royalbraisedbeef.jpg",
     "caloriesApprox": 766,
     "coupangMealkitKeyword": "궁중 소갈비찜 밀키트 소갈비",
     "ingredients": [
@@ -30654,7 +30654,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 묵은지 고등어조림 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Braised Mackerel & Kimchi Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80&sig=597&food=braised-mackerel---kimchi",
+    "imageUrl": "/images/menus/korean-0548-braisedmackerelk.jpg",
     "caloriesApprox": 537,
     "coupangMealkitKeyword": "묵은지 고등어조림 밀키트 순살고등어",
     "ingredients": [
@@ -30710,7 +30710,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 맑은 소고기 뭇국 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clear Beef Radish Soup Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80&sig=598&food=clear-beef-radish-soup",
+    "imageUrl": "/images/menus/korean-0549-clearbeefradishs.jpg",
     "caloriesApprox": 368,
     "coupangMealkitKeyword": "맑은 소고기 뭇국 밀키트 소고기양지",
     "ingredients": [
@@ -30766,7 +30766,7 @@ export const KOREAN_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 해물 듬뿍 파전 28호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Seafood Scallion Pancake Var.28 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=800&q=80&sig=599&food=seafood-scallion-pancake",
+    "imageUrl": "/images/menus/korean-0550-seafoodscallionp.jpg",
     "caloriesApprox": 559,
     "coupangMealkitKeyword": "해물 듬뿍 파전 밀키트 손질오징어/새우",
     "ingredients": [

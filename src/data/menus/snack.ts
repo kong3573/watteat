@@ -22,7 +22,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=50&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0001-creamyrosetteokb.jpg",
     "caloriesApprox": 720,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -78,7 +78,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=51&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0002-crispyfriedchick.jpg",
     "caloriesApprox": 781,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -134,7 +134,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=52&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0003-smokybonelesschi.jpg",
     "caloriesApprox": 542,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -190,7 +190,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=53&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0004-clambutterwinepa.jpg",
     "caloriesApprox": 463,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -246,7 +246,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=54&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0005-crispyoiltteokbo.jpg",
     "caloriesApprox": 514,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -302,7 +302,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=55&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0006-friedwholecalama.jpg",
     "caloriesApprox": 585,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -358,7 +358,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=56&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0007-smokyporkcartila.jpg",
     "caloriesApprox": 526,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -414,7 +414,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=57&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0008-meltedcheddarnac.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -470,7 +470,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=58&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0009-jjajangrabokkidu.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -526,7 +526,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=59&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0010-skeweredfishcake.jpg",
     "caloriesApprox": 459,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -582,7 +582,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=60&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0011-creamyrosetteokb.jpg",
     "caloriesApprox": 730,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -638,7 +638,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=61&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0012-crispyfriedchick.jpg",
     "caloriesApprox": 791,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -694,7 +694,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=62&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0013-smokybonelesschi.jpg",
     "caloriesApprox": 552,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -750,7 +750,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=63&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0014-clambutterwinepa.jpg",
     "caloriesApprox": 473,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -806,7 +806,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=64&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0015-crispyoiltteokbo.jpg",
     "caloriesApprox": 524,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -862,7 +862,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=65&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0016-friedwholecalama.jpg",
     "caloriesApprox": 595,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -918,7 +918,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=66&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0017-smokyporkcartila.jpg",
     "caloriesApprox": 536,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -974,7 +974,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=67&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0018-meltedcheddarnac.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -1030,7 +1030,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=68&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0019-jjajangrabokkidu.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -1086,7 +1086,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 2호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.2 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=69&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0020-skeweredfishcake.jpg",
     "caloriesApprox": 469,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -1142,7 +1142,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=70&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0021-creamyrosetteokb.jpg",
     "caloriesApprox": 740,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -1198,7 +1198,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=71&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0022-crispyfriedchick.jpg",
     "caloriesApprox": 801,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -1254,7 +1254,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=72&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0023-smokybonelesschi.jpg",
     "caloriesApprox": 562,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -1310,7 +1310,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=73&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0024-clambutterwinepa.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -1366,7 +1366,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=74&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0025-crispyoiltteokbo.jpg",
     "caloriesApprox": 534,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -1422,7 +1422,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=75&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0026-friedwholecalama.jpg",
     "caloriesApprox": 605,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -1478,7 +1478,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=76&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0027-smokyporkcartila.jpg",
     "caloriesApprox": 546,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -1534,7 +1534,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=77&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0028-meltedcheddarnac.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -1590,7 +1590,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=78&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0029-jjajangrabokkidu.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -1646,7 +1646,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 3호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.3 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=79&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0030-skeweredfishcake.jpg",
     "caloriesApprox": 479,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -1702,7 +1702,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=80&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0031-creamyrosetteokb.jpg",
     "caloriesApprox": 750,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -1758,7 +1758,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=81&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0032-crispyfriedchick.jpg",
     "caloriesApprox": 811,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -1814,7 +1814,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=82&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0033-smokybonelesschi.jpg",
     "caloriesApprox": 572,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -1870,7 +1870,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=83&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0034-clambutterwinepa.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -1926,7 +1926,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=84&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0035-crispyoiltteokbo.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -1982,7 +1982,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=85&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0036-friedwholecalama.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -2038,7 +2038,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=86&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0037-smokyporkcartila.jpg",
     "caloriesApprox": 556,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -2094,7 +2094,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=87&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0038-meltedcheddarnac.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -2150,7 +2150,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=88&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0039-jjajangrabokkidu.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -2206,7 +2206,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 4호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.4 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=89&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0040-skeweredfishcake.jpg",
     "caloriesApprox": 489,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -2262,7 +2262,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=90&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0041-creamyrosetteokb.jpg",
     "caloriesApprox": 760,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -2318,7 +2318,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=91&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0042-crispyfriedchick.jpg",
     "caloriesApprox": 821,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -2374,7 +2374,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=92&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0043-smokybonelesschi.jpg",
     "caloriesApprox": 582,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -2430,7 +2430,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=93&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0044-clambutterwinepa.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -2486,7 +2486,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=94&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0045-crispyoiltteokbo.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -2542,7 +2542,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=95&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0046-friedwholecalama.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -2598,7 +2598,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=96&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0047-smokyporkcartila.jpg",
     "caloriesApprox": 566,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -2654,7 +2654,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=97&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0048-meltedcheddarnac.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -2710,7 +2710,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=98&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0049-jjajangrabokkidu.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -2766,7 +2766,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 5호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.5 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=99&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0050-skeweredfishcake.jpg",
     "caloriesApprox": 499,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -2822,7 +2822,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=100&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0051-creamyrosetteokb.jpg",
     "caloriesApprox": 720,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -2878,7 +2878,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=101&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0052-crispyfriedchick.jpg",
     "caloriesApprox": 781,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -2934,7 +2934,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=102&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0053-smokybonelesschi.jpg",
     "caloriesApprox": 542,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -2990,7 +2990,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=103&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0054-clambutterwinepa.jpg",
     "caloriesApprox": 463,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -3046,7 +3046,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=104&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0055-crispyoiltteokbo.jpg",
     "caloriesApprox": 514,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -3102,7 +3102,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=105&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0056-friedwholecalama.jpg",
     "caloriesApprox": 585,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -3158,7 +3158,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=106&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0057-smokyporkcartila.jpg",
     "caloriesApprox": 526,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -3214,7 +3214,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=107&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0058-meltedcheddarnac.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -3270,7 +3270,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=108&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0059-jjajangrabokkidu.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -3326,7 +3326,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 6호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.6 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=109&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0060-skeweredfishcake.jpg",
     "caloriesApprox": 459,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -3382,7 +3382,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=110&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0061-creamyrosetteokb.jpg",
     "caloriesApprox": 730,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -3438,7 +3438,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=111&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0062-crispyfriedchick.jpg",
     "caloriesApprox": 791,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -3494,7 +3494,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=112&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0063-smokybonelesschi.jpg",
     "caloriesApprox": 552,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -3550,7 +3550,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=113&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0064-clambutterwinepa.jpg",
     "caloriesApprox": 473,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -3606,7 +3606,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=114&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0065-crispyoiltteokbo.jpg",
     "caloriesApprox": 524,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -3662,7 +3662,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=115&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0066-friedwholecalama.jpg",
     "caloriesApprox": 595,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -3718,7 +3718,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=116&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0067-smokyporkcartila.jpg",
     "caloriesApprox": 536,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -3774,7 +3774,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=117&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0068-meltedcheddarnac.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -3830,7 +3830,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=118&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0069-jjajangrabokkidu.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -3886,7 +3886,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 7호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.7 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=119&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0070-skeweredfishcake.jpg",
     "caloriesApprox": 469,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -3942,7 +3942,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=120&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0071-creamyrosetteokb.jpg",
     "caloriesApprox": 740,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -3998,7 +3998,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=121&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0072-crispyfriedchick.jpg",
     "caloriesApprox": 801,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -4054,7 +4054,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=122&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0073-smokybonelesschi.jpg",
     "caloriesApprox": 562,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -4110,7 +4110,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=123&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0074-clambutterwinepa.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -4166,7 +4166,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=124&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0075-crispyoiltteokbo.jpg",
     "caloriesApprox": 534,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -4222,7 +4222,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=125&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0076-friedwholecalama.jpg",
     "caloriesApprox": 605,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -4278,7 +4278,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=126&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0077-smokyporkcartila.jpg",
     "caloriesApprox": 546,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -4334,7 +4334,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=127&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0078-meltedcheddarnac.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -4390,7 +4390,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=128&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0079-jjajangrabokkidu.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -4446,7 +4446,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 8호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.8 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=129&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0080-skeweredfishcake.jpg",
     "caloriesApprox": 479,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -4502,7 +4502,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=130&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0081-creamyrosetteokb.jpg",
     "caloriesApprox": 750,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -4558,7 +4558,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=131&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0082-crispyfriedchick.jpg",
     "caloriesApprox": 811,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -4614,7 +4614,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=132&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0083-smokybonelesschi.jpg",
     "caloriesApprox": 572,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -4670,7 +4670,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=133&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0084-clambutterwinepa.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -4726,7 +4726,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=134&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0085-crispyoiltteokbo.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -4782,7 +4782,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=135&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0086-friedwholecalama.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -4838,7 +4838,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=136&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0087-smokyporkcartila.jpg",
     "caloriesApprox": 556,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -4894,7 +4894,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=137&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0088-meltedcheddarnac.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -4950,7 +4950,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=138&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0089-jjajangrabokkidu.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -5006,7 +5006,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 9호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.9 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=139&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0090-skeweredfishcake.jpg",
     "caloriesApprox": 489,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -5062,7 +5062,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=140&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0091-creamyrosetteokb.jpg",
     "caloriesApprox": 760,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -5118,7 +5118,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=141&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0092-crispyfriedchick.jpg",
     "caloriesApprox": 821,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -5174,7 +5174,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=142&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0093-smokybonelesschi.jpg",
     "caloriesApprox": 582,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -5230,7 +5230,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=143&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0094-clambutterwinepa.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -5286,7 +5286,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=144&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0095-crispyoiltteokbo.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -5342,7 +5342,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=145&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0096-friedwholecalama.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -5398,7 +5398,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=146&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0097-smokyporkcartila.jpg",
     "caloriesApprox": 566,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -5454,7 +5454,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=147&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0098-meltedcheddarnac.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -5510,7 +5510,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=148&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0099-jjajangrabokkidu.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -5566,7 +5566,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 10호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.10 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=149&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0100-skeweredfishcake.jpg",
     "caloriesApprox": 499,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -5622,7 +5622,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=150&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0101-creamyrosetteokb.jpg",
     "caloriesApprox": 720,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -5678,7 +5678,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=151&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0102-crispyfriedchick.jpg",
     "caloriesApprox": 781,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -5734,7 +5734,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=152&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0103-smokybonelesschi.jpg",
     "caloriesApprox": 542,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -5790,7 +5790,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=153&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0104-clambutterwinepa.jpg",
     "caloriesApprox": 463,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -5846,7 +5846,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=154&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0105-crispyoiltteokbo.jpg",
     "caloriesApprox": 514,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -5902,7 +5902,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=155&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0106-friedwholecalama.jpg",
     "caloriesApprox": 585,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -5958,7 +5958,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=156&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0107-smokyporkcartila.jpg",
     "caloriesApprox": 526,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -6014,7 +6014,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=157&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0108-meltedcheddarnac.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -6070,7 +6070,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=158&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0109-jjajangrabokkidu.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -6126,7 +6126,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 11호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.11 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=159&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0110-skeweredfishcake.jpg",
     "caloriesApprox": 459,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -6182,7 +6182,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=160&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0111-creamyrosetteokb.jpg",
     "caloriesApprox": 730,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -6238,7 +6238,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=161&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0112-crispyfriedchick.jpg",
     "caloriesApprox": 791,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -6294,7 +6294,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=162&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0113-smokybonelesschi.jpg",
     "caloriesApprox": 552,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -6350,7 +6350,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=163&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0114-clambutterwinepa.jpg",
     "caloriesApprox": 473,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -6406,7 +6406,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=164&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0115-crispyoiltteokbo.jpg",
     "caloriesApprox": 524,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -6462,7 +6462,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=165&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0116-friedwholecalama.jpg",
     "caloriesApprox": 595,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -6518,7 +6518,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=166&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0117-smokyporkcartila.jpg",
     "caloriesApprox": 536,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -6574,7 +6574,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=167&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0118-meltedcheddarnac.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -6630,7 +6630,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=168&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0119-jjajangrabokkidu.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -6686,7 +6686,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 12호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.12 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=169&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0120-skeweredfishcake.jpg",
     "caloriesApprox": 469,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -6742,7 +6742,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=170&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0121-creamyrosetteokb.jpg",
     "caloriesApprox": 740,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -6798,7 +6798,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=171&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0122-crispyfriedchick.jpg",
     "caloriesApprox": 801,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -6854,7 +6854,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=172&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0123-smokybonelesschi.jpg",
     "caloriesApprox": 562,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -6910,7 +6910,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=173&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0124-clambutterwinepa.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -6966,7 +6966,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=174&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0125-crispyoiltteokbo.jpg",
     "caloriesApprox": 534,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -7022,7 +7022,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=175&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0126-friedwholecalama.jpg",
     "caloriesApprox": 605,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -7078,7 +7078,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=176&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0127-smokyporkcartila.jpg",
     "caloriesApprox": 546,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -7134,7 +7134,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=177&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0128-meltedcheddarnac.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -7190,7 +7190,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=178&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0129-jjajangrabokkidu.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -7246,7 +7246,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 13호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.13 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=179&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0130-skeweredfishcake.jpg",
     "caloriesApprox": 479,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -7302,7 +7302,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=180&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0131-creamyrosetteokb.jpg",
     "caloriesApprox": 750,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -7358,7 +7358,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=181&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0132-crispyfriedchick.jpg",
     "caloriesApprox": 811,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -7414,7 +7414,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=182&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0133-smokybonelesschi.jpg",
     "caloriesApprox": 572,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -7470,7 +7470,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=183&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0134-clambutterwinepa.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -7526,7 +7526,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=184&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0135-crispyoiltteokbo.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -7582,7 +7582,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=185&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0136-friedwholecalama.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -7638,7 +7638,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=186&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0137-smokyporkcartila.jpg",
     "caloriesApprox": 556,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -7694,7 +7694,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=187&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0138-meltedcheddarnac.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -7750,7 +7750,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=188&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0139-jjajangrabokkidu.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -7806,7 +7806,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 14호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.14 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=189&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0140-skeweredfishcake.jpg",
     "caloriesApprox": 489,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -7862,7 +7862,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=190&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0141-creamyrosetteokb.jpg",
     "caloriesApprox": 760,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -7918,7 +7918,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=191&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0142-crispyfriedchick.jpg",
     "caloriesApprox": 821,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -7974,7 +7974,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=192&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0143-smokybonelesschi.jpg",
     "caloriesApprox": 582,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -8030,7 +8030,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=193&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0144-clambutterwinepa.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -8086,7 +8086,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=194&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0145-crispyoiltteokbo.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -8142,7 +8142,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=195&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0146-friedwholecalama.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -8198,7 +8198,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=196&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0147-smokyporkcartila.jpg",
     "caloriesApprox": 566,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -8254,7 +8254,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=197&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0148-meltedcheddarnac.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -8310,7 +8310,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=198&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0149-jjajangrabokkidu.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -8366,7 +8366,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 15호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.15 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=199&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0150-skeweredfishcake.jpg",
     "caloriesApprox": 499,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -8422,7 +8422,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=200&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0151-creamyrosetteokb.jpg",
     "caloriesApprox": 720,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -8478,7 +8478,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=201&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0152-crispyfriedchick.jpg",
     "caloriesApprox": 781,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -8534,7 +8534,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=202&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0153-smokybonelesschi.jpg",
     "caloriesApprox": 542,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -8590,7 +8590,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=203&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0154-clambutterwinepa.jpg",
     "caloriesApprox": 463,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -8646,7 +8646,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=204&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0155-crispyoiltteokbo.jpg",
     "caloriesApprox": 514,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -8702,7 +8702,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=205&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0156-friedwholecalama.jpg",
     "caloriesApprox": 585,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -8758,7 +8758,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=206&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0157-smokyporkcartila.jpg",
     "caloriesApprox": 526,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -8814,7 +8814,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=207&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0158-meltedcheddarnac.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -8870,7 +8870,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=208&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0159-jjajangrabokkidu.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -8926,7 +8926,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 16호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.16 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=209&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0160-skeweredfishcake.jpg",
     "caloriesApprox": 459,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -8982,7 +8982,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=210&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0161-creamyrosetteokb.jpg",
     "caloriesApprox": 730,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -9038,7 +9038,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=211&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0162-crispyfriedchick.jpg",
     "caloriesApprox": 791,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -9094,7 +9094,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=212&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0163-smokybonelesschi.jpg",
     "caloriesApprox": 552,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -9150,7 +9150,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=213&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0164-clambutterwinepa.jpg",
     "caloriesApprox": 473,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -9206,7 +9206,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=214&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0165-crispyoiltteokbo.jpg",
     "caloriesApprox": 524,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -9262,7 +9262,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=215&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0166-friedwholecalama.jpg",
     "caloriesApprox": 595,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -9318,7 +9318,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=216&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0167-smokyporkcartila.jpg",
     "caloriesApprox": 536,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -9374,7 +9374,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=217&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0168-meltedcheddarnac.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -9430,7 +9430,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=218&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0169-jjajangrabokkidu.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -9486,7 +9486,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 17호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.17 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=219&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0170-skeweredfishcake.jpg",
     "caloriesApprox": 469,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -9542,7 +9542,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=220&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0171-creamyrosetteokb.jpg",
     "caloriesApprox": 740,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -9598,7 +9598,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=221&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0172-crispyfriedchick.jpg",
     "caloriesApprox": 801,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -9654,7 +9654,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=222&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0173-smokybonelesschi.jpg",
     "caloriesApprox": 562,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -9710,7 +9710,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=223&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0174-clambutterwinepa.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -9766,7 +9766,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=224&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0175-crispyoiltteokbo.jpg",
     "caloriesApprox": 534,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -9822,7 +9822,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=225&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0176-friedwholecalama.jpg",
     "caloriesApprox": 605,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -9878,7 +9878,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=226&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0177-smokyporkcartila.jpg",
     "caloriesApprox": 546,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -9934,7 +9934,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=227&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0178-meltedcheddarnac.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -9990,7 +9990,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=228&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0179-jjajangrabokkidu.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -10046,7 +10046,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 18호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.18 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=229&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0180-skeweredfishcake.jpg",
     "caloriesApprox": 479,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -10102,7 +10102,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=230&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0181-creamyrosetteokb.jpg",
     "caloriesApprox": 750,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -10158,7 +10158,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=231&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0182-crispyfriedchick.jpg",
     "caloriesApprox": 811,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -10214,7 +10214,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=232&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0183-smokybonelesschi.jpg",
     "caloriesApprox": 572,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -10270,7 +10270,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=233&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0184-clambutterwinepa.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -10326,7 +10326,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=234&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0185-crispyoiltteokbo.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -10382,7 +10382,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=235&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0186-friedwholecalama.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -10438,7 +10438,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=236&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0187-smokyporkcartila.jpg",
     "caloriesApprox": 556,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -10494,7 +10494,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=237&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0188-meltedcheddarnac.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -10550,7 +10550,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=238&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0189-jjajangrabokkidu.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -10606,7 +10606,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 19호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.19 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=239&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0190-skeweredfishcake.jpg",
     "caloriesApprox": 489,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -10662,7 +10662,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=240&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0191-creamyrosetteokb.jpg",
     "caloriesApprox": 760,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -10718,7 +10718,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=241&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0192-crispyfriedchick.jpg",
     "caloriesApprox": 821,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -10774,7 +10774,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=242&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0193-smokybonelesschi.jpg",
     "caloriesApprox": 582,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -10830,7 +10830,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=243&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0194-clambutterwinepa.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -10886,7 +10886,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=244&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0195-crispyoiltteokbo.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -10942,7 +10942,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=245&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0196-friedwholecalama.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -10998,7 +10998,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=246&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0197-smokyporkcartila.jpg",
     "caloriesApprox": 566,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -11054,7 +11054,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=247&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0198-meltedcheddarnac.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -11110,7 +11110,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=248&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0199-jjajangrabokkidu.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -11166,7 +11166,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 20호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.20 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=249&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0200-skeweredfishcake.jpg",
     "caloriesApprox": 499,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -11222,7 +11222,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=250&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0201-creamyrosetteokb.jpg",
     "caloriesApprox": 720,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -11278,7 +11278,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=251&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0202-crispyfriedchick.jpg",
     "caloriesApprox": 781,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -11334,7 +11334,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=252&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0203-smokybonelesschi.jpg",
     "caloriesApprox": 542,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -11390,7 +11390,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=253&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0204-clambutterwinepa.jpg",
     "caloriesApprox": 463,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -11446,7 +11446,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=254&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0205-crispyoiltteokbo.jpg",
     "caloriesApprox": 514,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -11502,7 +11502,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=255&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0206-friedwholecalama.jpg",
     "caloriesApprox": 585,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -11558,7 +11558,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=256&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0207-smokyporkcartila.jpg",
     "caloriesApprox": 526,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -11614,7 +11614,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=257&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0208-meltedcheddarnac.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -11670,7 +11670,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=258&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0209-jjajangrabokkidu.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -11726,7 +11726,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 21호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.21 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=259&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0210-skeweredfishcake.jpg",
     "caloriesApprox": 459,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -11782,7 +11782,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=260&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0211-creamyrosetteokb.jpg",
     "caloriesApprox": 730,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -11838,7 +11838,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=261&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0212-crispyfriedchick.jpg",
     "caloriesApprox": 791,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -11894,7 +11894,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=262&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0213-smokybonelesschi.jpg",
     "caloriesApprox": 552,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -11950,7 +11950,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=263&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0214-clambutterwinepa.jpg",
     "caloriesApprox": 473,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -12006,7 +12006,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=264&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0215-crispyoiltteokbo.jpg",
     "caloriesApprox": 524,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -12062,7 +12062,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=265&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0216-friedwholecalama.jpg",
     "caloriesApprox": 595,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -12118,7 +12118,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=266&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0217-smokyporkcartila.jpg",
     "caloriesApprox": 536,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -12174,7 +12174,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=267&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0218-meltedcheddarnac.jpg",
     "caloriesApprox": 577,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -12230,7 +12230,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=268&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0219-jjajangrabokkidu.jpg",
     "caloriesApprox": 698,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -12286,7 +12286,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 22호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.22 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=269&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0220-skeweredfishcake.jpg",
     "caloriesApprox": 469,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -12342,7 +12342,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=270&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0221-creamyrosetteokb.jpg",
     "caloriesApprox": 740,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -12398,7 +12398,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=271&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0222-crispyfriedchick.jpg",
     "caloriesApprox": 801,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -12454,7 +12454,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=272&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0223-smokybonelesschi.jpg",
     "caloriesApprox": 562,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -12510,7 +12510,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=273&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0224-clambutterwinepa.jpg",
     "caloriesApprox": 483,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -12566,7 +12566,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=274&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0225-crispyoiltteokbo.jpg",
     "caloriesApprox": 534,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -12622,7 +12622,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=275&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0226-friedwholecalama.jpg",
     "caloriesApprox": 605,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -12678,7 +12678,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=276&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0227-smokyporkcartila.jpg",
     "caloriesApprox": 546,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -12734,7 +12734,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=277&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0228-meltedcheddarnac.jpg",
     "caloriesApprox": 587,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -12790,7 +12790,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=278&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0229-jjajangrabokkidu.jpg",
     "caloriesApprox": 708,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -12846,7 +12846,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 23호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.23 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=279&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0230-skeweredfishcake.jpg",
     "caloriesApprox": 479,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -12902,7 +12902,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=280&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0231-creamyrosetteokb.jpg",
     "caloriesApprox": 750,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -12958,7 +12958,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=281&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0232-crispyfriedchick.jpg",
     "caloriesApprox": 811,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -13014,7 +13014,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=282&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0233-smokybonelesschi.jpg",
     "caloriesApprox": 572,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -13070,7 +13070,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=283&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0234-clambutterwinepa.jpg",
     "caloriesApprox": 493,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -13126,7 +13126,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=284&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0235-crispyoiltteokbo.jpg",
     "caloriesApprox": 544,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -13182,7 +13182,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=285&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0236-friedwholecalama.jpg",
     "caloriesApprox": 615,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -13238,7 +13238,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=286&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0237-smokyporkcartila.jpg",
     "caloriesApprox": 556,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -13294,7 +13294,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=287&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0238-meltedcheddarnac.jpg",
     "caloriesApprox": 597,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -13350,7 +13350,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=288&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0239-jjajangrabokkidu.jpg",
     "caloriesApprox": 718,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -13406,7 +13406,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 24호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.24 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=289&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0240-skeweredfishcake.jpg",
     "caloriesApprox": 489,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -13462,7 +13462,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=290&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0241-creamyrosetteokb.jpg",
     "caloriesApprox": 760,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -13518,7 +13518,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=291&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0242-crispyfriedchick.jpg",
     "caloriesApprox": 821,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -13574,7 +13574,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=292&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0243-smokybonelesschi.jpg",
     "caloriesApprox": 582,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -13630,7 +13630,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=293&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0244-clambutterwinepa.jpg",
     "caloriesApprox": 503,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -13686,7 +13686,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=294&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0245-crispyoiltteokbo.jpg",
     "caloriesApprox": 554,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -13742,7 +13742,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=295&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0246-friedwholecalama.jpg",
     "caloriesApprox": 625,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -13798,7 +13798,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=296&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0247-smokyporkcartila.jpg",
     "caloriesApprox": 566,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -13854,7 +13854,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=297&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0248-meltedcheddarnac.jpg",
     "caloriesApprox": 607,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -13910,7 +13910,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=298&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0249-jjajangrabokkidu.jpg",
     "caloriesApprox": 728,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -13966,7 +13966,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 25호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.25 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=299&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0250-skeweredfishcake.jpg",
     "caloriesApprox": 499,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
@@ -14022,7 +14022,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 꾸덕 로제 떡볶이 분모자 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Creamy Rose Tteokbokki Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=300&food=creamy-rose-tteokbokki",
+    "imageUrl": "/images/menus/snack-0251-creamyrosetteokb.jpg",
     "caloriesApprox": 720,
     "coupangMealkitKeyword": "꾸덕 로제 떡볶이 분모자 밀키트 밀떡/롱분모자",
     "ingredients": [
@@ -14078,7 +14078,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 크리스피 순살치킨 모짜 치즈볼 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Fried Chicken & Cheese Balls Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=301&food=crispy-fried-chicken---ch",
+    "imageUrl": "/images/menus/snack-0252-crispyfriedchick.jpg",
     "caloriesApprox": 781,
     "coupangMealkitKeyword": "크리스피 순살치킨 모짜 치즈볼 밀키트 순살치킨",
     "ingredients": [
@@ -14134,7 +14134,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 직화 불맛 무뼈닭발 주먹밥 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Boneless Chicken Feet Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=302&food=smoky-boneless-chicken-fe",
+    "imageUrl": "/images/menus/snack-0253-smokybonelesschi.jpg",
     "caloriesApprox": 542,
     "coupangMealkitKeyword": "직화 불맛 무뼈닭발 주먹밥 밀키트 무뼈닭발",
     "ingredients": [
@@ -14190,7 +14190,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 바지락 버터술찜 국물파스타 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Clam Butter Wine Pasta Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=303&food=clam-butter-wine-pasta",
+    "imageUrl": "/images/menus/snack-0254-clambutterwinepa.jpg",
     "caloriesApprox": 463,
     "coupangMealkitKeyword": "바지락 버터술찜 국물파스타 밀키트 해감바지락",
     "ingredients": [
@@ -14246,7 +14246,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 통인시장 기름떡볶이 납작만두 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Crispy Oil Tteokbokki Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=304&food=crispy-oil-tteokbokki",
+    "imageUrl": "/images/menus/snack-0255-crispyoiltteokbo.jpg",
     "caloriesApprox": 514,
     "coupangMealkitKeyword": "통인시장 기름떡볶이 납작만두 밀키트 쌀떡볶이떡",
     "ingredients": [
@@ -14302,7 +14302,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 통오징어 튀김 떡볶이소스 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Fried Whole Calamari & Dip Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=305&food=fried-whole-calamari---di",
+    "imageUrl": "/images/menus/snack-0256-friedwholecalama.jpg",
     "caloriesApprox": 585,
     "coupangMealkitKeyword": "통오징어 튀김 떡볶이소스 밀키트 통오징어튀김",
     "ingredients": [
@@ -14358,7 +14358,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 직화 매콤 오돌뼈 주먹밥 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Smoky Pork Cartilage Odolppyeo Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=800&q=80&sig=306&food=smoky-pork-cartilage-odol",
+    "imageUrl": "/images/menus/snack-0257-smokyporkcartila.jpg",
     "caloriesApprox": 526,
     "coupangMealkitKeyword": "직화 매콤 오돌뼈 주먹밥 밀키트 직화오돌뼈",
     "ingredients": [
@@ -14414,7 +14414,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 치즈 오븐 나초 과카몰리 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Melted Cheddar Nacho Platter Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80&sig=307&food=melted-cheddar-nacho-plat",
+    "imageUrl": "/images/menus/snack-0258-meltedcheddarnac.jpg",
     "caloriesApprox": 567,
     "coupangMealkitKeyword": "치즈 오븐 나초 과카몰리 밀키트 토르티야나초칩",
     "ingredients": [
@@ -14470,7 +14470,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "보통",
     "description": "누구나 실패 없이 맛있게 만드는 사천 짜장 라볶이 튀김만두 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Jjajang Rabokki & Dumplings Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1628294895950-9805252327bc?auto=format&fit=crop&w=800&q=80&sig=308&food=jjajang-rabokki---dumplin",
+    "imageUrl": "/images/menus/snack-0259-jjajangrabokkidu.jpg",
     "caloriesApprox": 688,
     "coupangMealkitKeyword": "사천 짜장 라볶이 튀김만두 밀키트 밀떡/라면사리",
     "ingredients": [
@@ -14526,7 +14526,7 @@ export const SNACK_MENUS: MenuItem[] = [
     "difficulty": "쉬움",
     "description": "누구나 실패 없이 맛있게 만드는 포장마차 꼬치 어묵탕 모둠튀김 26호! 신선한 식재료와 황금 비율 양념으로 완성하는 최고의 식사.",
     "descriptionEn": "Delicious and easy-to-cook Skewered Fish Cake Soup Eomuk Var.26 prepared with fresh ingredients and authentic seasonings.",
-    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=800&q=80&sig=309&food=skewered-fish-cake-soup-e",
+    "imageUrl": "/images/menus/snack-0260-skeweredfishcake.jpg",
     "caloriesApprox": 459,
     "coupangMealkitKeyword": "포장마차 꼬치 어묵탕 모둠튀김 밀키트 부산꼬치어묵",
     "ingredients": [
