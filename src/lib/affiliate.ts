@@ -60,12 +60,14 @@ export function saveAffiliateConfig(config: AffiliateConfig): void {
 }
 
 /**
- * 쿠팡 파트너스 검색 URL 생성 (트래킹 ID 및 subid 결합)
+ * 쿠팡 파트너스 검색 URL 생성 (트래킹 ID lptag 및 subid 결합)
  */
 export function getCoupangSearchUrl(keyword: string, subId?: string): string {
+  const config = getStoredAffiliateConfig();
+  const trackingId = config.coupangTrackingId || 'AF7547927';
   const encoded = encodeURIComponent(keyword);
-  const effectiveSubId = subId || getStoredAffiliateConfig().coupangSubId || 'whattoeat_web';
-  return `https://www.coupang.com/np/search?q=${encoded}&channel=user&subid=${encodeURIComponent(effectiveSubId)}`;
+  const effectiveSubId = subId || config.coupangSubId || 'whattoeat_web';
+  return `https://www.coupang.com/np/search?q=${encoded}&channel=user&lptag=${trackingId}&subid=${encodeURIComponent(effectiveSubId)}`;
 }
 
 /**
