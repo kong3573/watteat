@@ -11,6 +11,7 @@ import {
   getCoupangDeeplinkUrl,
   trackAffiliateClick,
 } from '@/lib/affiliate';
+import { getAssetPath } from '@/lib/assets';
 
 interface MenuCardProps {
   menu: MenuItem;
@@ -77,7 +78,7 @@ export const MenuCard: React.FC<MenuCardProps> = ({
       <div className="relative h-48 w-full overflow-hidden bg-gray-100">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
-          src={menu.imageUrl}
+          src={getAssetPath(menu.imageUrl)}
           alt={menu.name}
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
           loading="lazy"

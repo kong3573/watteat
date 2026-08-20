@@ -40,6 +40,7 @@ import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { TimeBanner } from '@/components/TimeBanner';
 import { SettingsModal } from '@/components/SettingsModal';
+import { getAssetPath } from '@/lib/assets';
 
 interface MenuDetailViewProps {
   menu: MenuItem;
@@ -230,7 +231,7 @@ export const MenuDetailView: React.FC<MenuDetailViewProps> = ({ menu, relatedMen
           <div className="relative h-72 sm:h-96 w-full bg-gray-900">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src={menu.imageUrl}
+              src={getAssetPath(menu.imageUrl)}
               alt={menu.name}
               className="w-full h-full object-cover"
             />

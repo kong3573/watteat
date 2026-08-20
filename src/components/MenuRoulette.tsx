@@ -13,6 +13,7 @@ import {
   getAllMenuHistory,
   MenuHistoryItem,
 } from '@/lib/affiliate';
+import { getAssetPath } from '@/lib/assets';
 
 interface MenuRouletteProps {
   isOpen: boolean;
@@ -141,7 +142,7 @@ export const MenuRoulette: React.FC<MenuRouletteProps> = ({
               <div className="relative w-full h-40 rounded-xl overflow-hidden shadow-inner bg-gray-200">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src={displayMenu.imageUrl}
+                  src={getAssetPath(displayMenu.imageUrl)}
                   alt={displayMenu.name}
                   className="w-full h-full object-cover transition-transform duration-300"
                 />

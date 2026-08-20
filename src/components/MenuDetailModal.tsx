@@ -32,6 +32,7 @@ import {
   toggleFavoriteMenuId,
   recordMenuViewHistory,
 } from '@/lib/affiliate';
+import { getAssetPath } from '@/lib/assets';
 
 interface MenuDetailModalProps {
   menu: MenuItem | null;
@@ -202,7 +203,7 @@ export const MenuDetailModal: React.FC<MenuDetailModalProps> = ({
         <div className="relative h-56 w-full bg-gray-900">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={menu.imageUrl}
+            src={getAssetPath(menu.imageUrl)}
             alt={menu.name}
             className="w-full h-full object-cover"
           />
