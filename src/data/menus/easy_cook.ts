@@ -11,8 +11,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -67,8 +70,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -123,8 +129,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -179,8 +188,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -235,8 +247,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -291,8 +306,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -347,8 +365,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -403,8 +424,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -459,8 +483,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -515,8 +542,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -571,8 +601,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -627,8 +660,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -683,8 +719,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -739,8 +778,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -795,8 +837,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -851,8 +896,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -907,8 +955,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -963,8 +1014,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1019,8 +1073,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1075,8 +1132,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1131,8 +1191,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1187,8 +1250,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1243,8 +1309,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1299,8 +1368,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1355,8 +1427,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1411,8 +1486,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1467,8 +1545,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1523,8 +1604,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1579,8 +1663,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1635,8 +1722,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1691,8 +1781,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1747,8 +1840,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1803,8 +1899,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1859,8 +1958,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1915,8 +2017,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -1971,8 +2076,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2027,8 +2135,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2083,8 +2194,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2139,8 +2253,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2195,8 +2312,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2251,8 +2371,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2307,8 +2430,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2363,8 +2489,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2419,8 +2548,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2475,8 +2607,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2531,8 +2666,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2587,8 +2725,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2643,8 +2784,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2699,8 +2843,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2755,8 +2902,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2811,8 +2961,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2867,8 +3020,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2923,8 +3079,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -2979,8 +3138,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3035,8 +3197,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3091,8 +3256,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3147,8 +3315,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3203,8 +3374,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3259,8 +3433,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3315,8 +3492,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3371,8 +3551,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3427,8 +3610,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3483,8 +3669,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3539,8 +3728,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3595,8 +3787,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3651,8 +3846,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3707,8 +3905,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3763,8 +3964,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3819,8 +4023,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3875,8 +4082,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3931,8 +4141,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -3987,8 +4200,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4043,8 +4259,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4099,8 +4318,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4155,8 +4377,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4211,8 +4436,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4267,8 +4495,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4323,8 +4554,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4379,8 +4613,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4435,8 +4672,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4491,8 +4731,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4547,8 +4790,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4603,8 +4849,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4659,8 +4908,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4715,8 +4967,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4771,8 +5026,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4827,8 +5085,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4883,8 +5144,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4939,8 +5203,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -4995,8 +5262,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5051,8 +5321,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5107,8 +5380,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5163,8 +5439,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5219,8 +5498,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5275,8 +5557,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5331,8 +5616,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5387,8 +5675,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5443,8 +5734,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5499,8 +5793,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5555,8 +5852,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5611,8 +5911,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5667,8 +5970,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5723,8 +6029,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5779,8 +6088,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5835,8 +6147,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5891,8 +6206,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -5947,8 +6265,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6003,8 +6324,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6059,8 +6383,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6115,8 +6442,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6171,8 +6501,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6227,8 +6560,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6283,8 +6619,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6339,8 +6678,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6395,8 +6737,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6451,8 +6796,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6507,8 +6855,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6563,8 +6914,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6619,8 +6973,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6675,8 +7032,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6731,8 +7091,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6787,8 +7150,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6843,8 +7209,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6899,8 +7268,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -6955,8 +7327,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7011,8 +7386,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7067,8 +7445,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7123,8 +7504,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7179,8 +7563,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7235,8 +7622,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7291,8 +7681,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7347,8 +7740,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7403,8 +7799,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7459,8 +7858,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7515,8 +7917,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7571,8 +7976,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7627,8 +8035,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7683,8 +8094,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7739,8 +8153,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7795,8 +8212,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7851,8 +8271,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7907,8 +8330,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -7963,8 +8389,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8019,8 +8448,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8075,8 +8507,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8131,8 +8566,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8187,8 +8625,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8243,8 +8684,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8299,8 +8743,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8355,8 +8802,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8411,8 +8861,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8467,8 +8920,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8523,8 +8979,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8579,8 +9038,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8635,8 +9097,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8691,8 +9156,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8747,8 +9215,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8803,8 +9274,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8859,8 +9333,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8915,8 +9392,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -8971,8 +9451,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9027,8 +9510,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9083,8 +9569,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9139,8 +9628,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9195,8 +9687,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9251,8 +9746,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9307,8 +9805,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9363,8 +9864,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9419,8 +9923,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9475,8 +9982,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9531,8 +10041,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9587,8 +10100,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9643,8 +10159,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9699,8 +10218,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9755,8 +10277,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9811,8 +10336,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9867,8 +10395,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9923,8 +10454,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -9979,8 +10513,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10035,8 +10572,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10091,8 +10631,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10147,8 +10690,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10203,8 +10749,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10259,8 +10808,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10315,8 +10867,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10371,8 +10926,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10427,8 +10985,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10483,8 +11044,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10539,8 +11103,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10595,8 +11162,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10651,8 +11221,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10707,8 +11280,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10763,8 +11339,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10819,8 +11398,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10875,8 +11457,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10931,8 +11516,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -10987,8 +11575,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11043,8 +11634,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11099,8 +11693,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11155,8 +11752,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11211,8 +11811,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11267,8 +11870,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11323,8 +11929,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11379,8 +11988,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11435,8 +12047,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11491,8 +12106,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11547,8 +12165,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11603,8 +12224,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11659,8 +12283,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11715,8 +12342,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11771,8 +12401,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11827,8 +12460,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11883,8 +12519,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11939,8 +12578,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -11995,8 +12637,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12051,8 +12696,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12107,8 +12755,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12163,8 +12814,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12219,8 +12873,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12275,8 +12932,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12331,8 +12991,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12387,8 +13050,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12443,8 +13109,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12499,8 +13168,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12555,8 +13227,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12611,8 +13286,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12667,8 +13345,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12723,8 +13404,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12779,8 +13463,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12835,8 +13522,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12891,8 +13581,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -12947,8 +13640,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13003,8 +13699,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13059,8 +13758,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13115,8 +13817,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13171,8 +13876,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13227,8 +13935,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13283,8 +13994,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13339,8 +14053,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13395,8 +14112,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13451,8 +14171,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13507,8 +14230,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13563,8 +14289,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13619,8 +14348,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13675,8 +14407,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13731,8 +14466,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13787,8 +14525,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13843,8 +14584,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13899,8 +14643,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",
@@ -13955,8 +14702,11 @@ export const EASY_COOK_MENUS: MenuItem[] = [
       "dinner"
     ],
     "tags": [
-      "#인기메뉴",
-      "#추천요리"
+      "#5분요리",
+      "#초간단자취",
+      "#10분완성",
+      "#로켓프레시인기",
+      "#혼밥메뉴"
     ],
     "tagsEn": [
       "#Popular",

@@ -137,16 +137,21 @@ export default function Home() {
     return filteredMenus.slice(0, visibleCount);
   }, [filteredMenus, visibleCount]);
 
+  const handleSelectCategory = (cat: string) => {
+    setSelectedCategory(cat);
+    setSelectedTag('all');
+  };
+
   // 빠른 필터 핸들러
   const handleFilterEvening = () => {
-    setSelectedCategory('all');
-    setSelectedTag('#5분요리');
+    setSelectedCategory('easy_cook');
+    setSelectedTag('all');
     setSearchQuery('');
   };
 
   const handleFilterTomorrow = () => {
-    setSelectedCategory('all');
-    setSelectedTag('#든든한국물');
+    setSelectedCategory('korean');
+    setSelectedTag('all');
     setSearchQuery('');
   };
 
@@ -209,7 +214,7 @@ export default function Home() {
           searchQuery={searchQuery}
           favoritesCount={favoriteIds.length}
           unexploredCount={unexploredCount}
-          onSelectCategory={setSelectedCategory}
+          onSelectCategory={handleSelectCategory}
           onSelectTag={setSelectedTag}
           onSearchChange={setSearchQuery}
         />
