@@ -108,6 +108,35 @@ export default function Home() {
     });
   }, [selectedCategory, selectedTag, searchQuery, favoriteIds, menuHistory]);
 
+  // 무한 스크롤 및 성능 최적화: 초기 24개부터 점진적 렌더링
+  const [visibleCount, setVisibleCount] = useState<number>(24);
+
+  // 필터나 검색어가 바뀌면 visibleCount를 초기화
+  useEffect(() => {
+    setVisibleCount(24);
+  }, [selectedCategory, selectedTag, searchQuery]);
+
+  // 스크롤 감지용 인터섹션 옵저버 타겟
+  const loadMoreRef = React.useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!loadMoreRef.current) return;
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          setVisibleCount((prev) => Math.min(prev + 24, filteredMenus.length));
+        }
+      },
+      { rootMargin: '400px' }
+    );
+    observer.observe(loadMoreRef.current);
+    return () => observer.disconnect();
+  }, [filteredMenus.length]);
+
+  const visibleMenus = useMemo(() => {
+    return filteredMenus.slice(0, visibleCount);
+  }, [filteredMenus, visibleCount]);
+
   // 빠른 필터 핸들러
   const handleFilterEvening = () => {
     setSelectedCategory('all');
@@ -211,22 +240,40 @@ export default function Home() {
           )}
         </div>
 
-        {/* 메뉴 카드 그리드 */}
-        {filteredMenus.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {filteredMenus.map((menu) => (
-              <MenuCard
-                key={menu.id}
-                menu={menu}
-                countryMode={countryMode}
-                isFavorite={favoriteIds.includes(menu.id)}
-                rouletteCount={menuHistory[menu.id]?.rouletteCount || 0}
-                viewCount={menuHistory[menu.id]?.viewCount || 0}
-                onToggleFavorite={handleToggleFavorite}
-                onOpenDetail={(m) => setSelectedMenuDetail(m)}
-              />
-            ))}
-          </div>
+        {/* 메뉴 카드 그리드 (점진적 최적화 렌더링) */}
+        {visibleMenus.length > 0 ? (
+          <>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {visibleMenus.map((menu) => (
+                <MenuCard
+                  key={menu.id}
+                  menu={menu}
+                  countryMode={countryMode}
+                  isFavorite={favoriteIds.includes(menu.id)}
+                  rouletteCount={menuHistory[menu.id]?.rouletteCount || 0}
+                  viewCount={menuHistory[menu.id]?.viewCount || 0}
+                  onToggleFavorite={handleToggleFavorite}
+                  onOpenDetail={(m) => setSelectedMenuDetail(m)}
+                />
+              ))}
+            </div>
+
+            {/* 무한 스크롤 옵저버 트리거 & 더보기 버튼 */}
+            {visibleCount < filteredMenus.length && (
+              <div ref={loadMoreRef} className="py-8 text-center flex flex-col items-center justify-center gap-3">
+                <button
+                  type="button"
+                  onClick={() => setVisibleCount((prev) => Math.min(prev + 24, filteredMenus.length))}
+                  className="px-6 py-3 bg-white hover:bg-gray-50 text-gray-800 text-xs font-bold rounded-2xl border border-gray-200 shadow-xs active:scale-95 transition-all cursor-pointer touch-manipulation"
+                >
+                  더 많은 메뉴 불러오기 (+24개)
+                </button>
+                <p className="text-[11px] text-gray-400 font-medium">
+                  {visibleCount} / {filteredMenus.length}개 표시 중
+                </p>
+              </div>
+            )}
+          </>
         ) : (
           <div className="text-center py-16 bg-white rounded-3xl border border-gray-200/80 my-6 shadow-2xs">
             <div className="w-12 h-12 rounded-full bg-gray-100 text-gray-400 flex items-center justify-center mx-auto mb-3">

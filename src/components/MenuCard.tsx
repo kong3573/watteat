@@ -73,6 +73,7 @@ export const MenuCard: React.FC<MenuCardProps> = ({
     <div 
       onClick={() => onOpenDetail(menu)}
       className="group bg-white rounded-2xl border border-gray-200/80 overflow-hidden shadow-2xs hover:shadow-xl hover:border-gray-300 transition-all duration-300 flex flex-col cursor-pointer relative"
+      style={{ contentVisibility: 'auto', containIntrinsicSize: '0 400px' }}
     >
       {/* 썸네일 이미지 & 뱃지 */}
       <div className="relative h-48 w-full overflow-hidden bg-gray-100">
@@ -80,10 +81,11 @@ export const MenuCard: React.FC<MenuCardProps> = ({
         <img
           src={getAssetPath(menu.imageUrl)}
           alt={menu.name}
-          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 will-change-transform"
           loading="lazy"
+          decoding="async"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent pointer-events-none" />
 
         {/* 상단 좌측 뱃지 (조리시간 / 방송 화제 / 이력) */}
         <div className="absolute top-3 left-3 flex flex-col gap-1 items-start">
