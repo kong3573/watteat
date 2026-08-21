@@ -153,10 +153,10 @@ export const MenuDetailView: React.FC<MenuDetailViewProps> = ({ menu, relatedMen
 
   const handleShare = async () => {
     const url = typeof window !== 'undefined' ? `${window.location.origin}/menu/${menu.id}` : '';
-    const title = `오늘 뭐먹지? - ${menu.name}`;
+    const title = `왓잇(Watteat) - ${menu.name}`;
     const text = isTvFeatured && menu.tvFeature
-      ? `📺 방송 화제! [${menu.tvFeature.showName}] ${menu.name} 레시피와 재료 보기`
-      : `오늘 저녁은 '${menu.name}' 어때요? 15분 완성 밀키트와 레시피 확인하기!`;
+      ? `📺 방송 화제! [${menu.tvFeature.showName}] ${menu.name} 레시피와 로켓배송 재료 보기 - 왓잇(Watteat)`
+      : `오늘 저녁은 '${menu.name}' 어때요? 15분 완성 밀키트와 레시피 확인하기 - 왓잇(Watteat)`;
     const res = await shareMenuItem(title, text, url);
     if (res === 'copied') {
       setCopiedShare(true);

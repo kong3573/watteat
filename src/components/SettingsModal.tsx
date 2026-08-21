@@ -148,7 +148,7 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({ isOpen, onClose })
                 type="text"
                 value={config.coupangSubId || ''}
                 onChange={(e) => setConfig({ ...config, coupangSubId: e.target.value })}
-                placeholder="예: whattoeat_web"
+                placeholder="예: watteat_web"
                 className="w-full px-3.5 py-2.5 text-xs bg-gray-50 border border-gray-200 rounded-xl focus:ring-2 focus:ring-red-500/20 focus:border-red-500 outline-none"
               />
             </div>
@@ -192,7 +192,7 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({ isOpen, onClose })
                 type="text"
                 value={config.amazonTag}
                 onChange={(e) => setConfig({ ...config, amazonTag: e.target.value })}
-                placeholder="예: whattoeat-20"
+                placeholder="예: watteat-20"
                 className="w-full px-3.5 py-2.5 text-xs bg-gray-50 border border-gray-200 rounded-xl focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 outline-none"
               />
             </div>

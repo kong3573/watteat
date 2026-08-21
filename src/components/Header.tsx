@@ -88,21 +88,24 @@ export const Header: React.FC<HeaderProps> = ({
     <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-gray-100 shadow-2xs">
       <div className="max-w-6xl mx-auto px-3 sm:px-6 h-14 sm:h-16 flex items-center justify-between gap-2">
         {/* 좌측 로고 & 브랜드 타이틀 */}
-        <div className="flex items-center space-x-2 flex-shrink-0 group min-w-0">
+        <div className="flex items-center space-x-2.5 flex-shrink-0 group min-w-0">
           <button
             type="button"
             onClick={handleLogoClick}
             className="w-8 h-8 sm:w-9 sm:h-9 rounded-xl bg-gradient-to-tr from-red-500 to-amber-500 flex items-center justify-center text-white shadow-md shadow-red-500/20 group-hover:scale-105 transition-transform flex-shrink-0 cursor-pointer"
-            title="오늘 뭐먹지, 내일 뭐먹지"
+            title="왓잇 (Watteat) - 매일의 메뉴 고민 해결"
           >
             <UtensilsCrossed className="w-4 h-4 sm:w-4.5 sm:h-4.5" />
           </button>
           
-          <Link href="/" className="flex items-center gap-1.5 min-w-0">
-            <span className="text-sm sm:text-base md:text-lg font-black text-gray-900 tracking-tight truncate">
-              {/* 모바일 숏 타이틀 / 데스크탑 풀 타이틀 */}
-              <span className="sm:hidden">오늘 뭐먹지?</span>
-              <span className="hidden sm:inline">오늘 뭐먹지, 내일 뭐먹지</span>
+          <Link href="/" className="flex items-center gap-2 min-w-0 group/link">
+            <span className="flex items-baseline gap-1.5 tracking-tight truncate">
+              <span className="text-base sm:text-xl font-black text-gray-900 group-hover/link:text-red-600 transition-colors">
+                왓잇
+              </span>
+              <span className="text-xs sm:text-sm font-extrabold text-amber-600">
+                Watteat
+              </span>
             </span>
 
             {/* 로켓배송 뱃지 */}

@@ -30,9 +30,9 @@ export const Footer: React.FC<FooterProps> = ({ countryMode }) => {
         {/* 푸터 하단 정보 */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-gray-800 text-[11px]">
           <div className="flex items-center space-x-2">
-            <span className="font-extrabold text-white">오늘 뭐먹지, 내일 뭐먹지?</span>
+            <span className="font-extrabold text-white">왓잇 (Watteat)</span>
             <span>•</span>
-            <span>WhatToEat Today & Tomorrow</span>
+            <span>오늘 뭐먹지? 내일 뭐먹지? 식사 메뉴 큐레이션</span>
           </div>
 
           <div className="flex items-center space-x-1 text-gray-500">

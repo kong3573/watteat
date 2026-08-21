@@ -26,10 +26,10 @@ export interface MenuHistoryItem {
 
 export const DEFAULT_AFFILIATE_CONFIG: AffiliateConfig = {
   coupangTrackingId: 'AF7547927', // 사용자 쿠팡 파트너스 ID
-  coupangSubId: 'whattoeat_web',
+  coupangSubId: 'watteat_web',
   coupangAccessKey: '',
   coupangSecretKey: '',
-  amazonTag: 'whattoeat-20',
+  amazonTag: 'watteat-20',
 };
 
 const STORAGE_KEY = 'whattoeat_affiliate_config';
