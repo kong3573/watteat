@@ -2,7 +2,7 @@
 
 import React, { useState, useMemo, useEffect } from 'react';
 import { CountryMode, MenuItem } from '@/types/menu';
-import { MENUS_DATA } from '@/data/menus';
+import { CATEGORIES, THEME_TAGS, MENUS_DATA, matchMenuItemTheme } from '@/data/menus';
 import { Header } from '@/components/Header';
 import { TimeBanner } from '@/components/TimeBanner';
 import { CategoryFilter } from '@/components/CategoryFilter';
@@ -17,7 +17,7 @@ import {
   getAllMenuHistory,
   MenuHistoryItem,
 } from '@/lib/affiliate';
-import { Sparkles, Utensils, HelpCircle, Compass } from 'lucide-react';
+import { Sparkles, Utensils, HelpCircle, Compass, X, RotateCcw } from 'lucide-react';
 
 export default function Home() {
   const [countryMode, setCountryMode] = useState<CountryMode>('KR');
@@ -77,11 +77,9 @@ export default function Home() {
         return false;
       }
 
-      // 태그 필터
+      // 2. 상황별 추천 테마 필터 (카테고리와 독립된 스마트 교차 필터)
       if (selectedTag !== 'all') {
-        const matchesTag = item.tags.some((t) => t.includes(selectedTag)) ||
-          item.tagsEn.some((t) => t.toLowerCase().includes(selectedTag.toLowerCase()));
-        if (!matchesTag) return false;
+        if (!matchMenuItemTheme(item, selectedTag)) return false;
       }
 
       // 검색어 필터
@@ -219,29 +217,97 @@ export default function Home() {
           onSearchChange={setSearchQuery}
         />
 
-        {/* 결과 카운트 및 상태 */}
-        <div className="flex items-center justify-between my-4 text-xs font-semibold text-gray-500 px-1">
-          <div className="flex items-center gap-2">
-            <Utensils className="w-4 h-4 text-red-500" />
-            <span>총 {filteredMenus.length}개의 메뉴 제안</span>
+        {/* 결과 카운트 및 활성 필터 태그 바 */}
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2.5 my-4 px-1">
+          <div className="flex flex-wrap items-center gap-2 text-xs font-semibold text-gray-600">
+            <div className="flex items-center gap-1.5">
+              <Utensils className="w-4 h-4 text-red-500" />
+              <span>총 <strong className="text-gray-900 font-black">{filteredMenus.length}</strong>개의 메뉴 제안</span>
+            </div>
+
             {selectedCategory === 'all' && unexploredCount > 0 && (
-              <span className="text-[11px] text-amber-600 font-bold bg-amber-50 px-2 py-0.5 rounded-md">
-                (새로운 메뉴 우선 정렬됨)
+              <span className="text-[11px] text-amber-700 font-bold bg-amber-50 border border-amber-200/60 px-2 py-0.5 rounded-md">
+                ✨ 안 먹어본 메뉴 우선 정렬
               </span>
             )}
           </div>
-          {(selectedCategory !== 'all' || selectedTag !== 'all' || searchQuery) && (
-            <button
-              type="button"
-              onClick={() => {
-                setSelectedCategory('all');
-                setSelectedTag('all');
-                setSearchQuery('');
-              }}
-              className="text-red-600 hover:underline font-bold cursor-pointer touch-manipulation"
-            >
-              필터 초기화
-            </button>
+
+          {/* 적용 중인 필터 칩 및 초기화 버튼 */}
+          {(selectedCategory !== 'all' || selectedTag !== 'all' || searchQuery.trim() !== '') && (
+            <div className="flex flex-wrap items-center gap-1.5 text-xs">
+              {/* 카테고리 칩 */}
+              {selectedCategory !== 'all' && (
+                <span className="inline-flex items-center gap-1 px-2.5 py-1 bg-gray-900 text-white rounded-lg text-[11px] font-bold shadow-2xs">
+                  <span>
+                    {selectedCategory === 'unexplored'
+                      ? '✨ 안 먹어본 메뉴'
+                      : selectedCategory === 'favorites'
+                      ? '❤️ 찜한 메뉴'
+                      : (() => {
+                          const cat = CATEGORIES.find((c) => c.id === selectedCategory);
+                          return cat ? `${cat.icon} ${countryMode === 'KR' ? cat.name : cat.nameEn}` : selectedCategory;
+                        })()}
+                  </span>
+                  <button
+                    type="button"
+                    onClick={() => setSelectedCategory('all')}
+                    className="hover:text-red-300 ml-0.5 cursor-pointer"
+                    aria-label="Remove category filter"
+                  >
+                    <X className="w-3 h-3" />
+                  </button>
+                </span>
+              )}
+
+              {/* 상황별 테마 칩 */}
+              {selectedTag !== 'all' && (
+                <span className="inline-flex items-center gap-1 px-2.5 py-1 bg-red-500 text-white rounded-lg text-[11px] font-bold shadow-2xs">
+                  <span>
+                    {(() => {
+                      const th = THEME_TAGS.find((t) => t.id === selectedTag);
+                      return th ? `${th.icon} ${countryMode === 'KR' ? th.label : th.labelEn}` : `#${selectedTag}`;
+                    })()}
+                  </span>
+                  <button
+                    type="button"
+                    onClick={() => setSelectedTag('all')}
+                    className="hover:text-amber-200 ml-0.5 cursor-pointer"
+                    aria-label="Remove theme filter"
+                  >
+                    <X className="w-3 h-3" />
+                  </button>
+                </span>
+              )}
+
+              {/* 검색어 칩 */}
+              {searchQuery.trim() !== '' && (
+                <span className="inline-flex items-center gap-1 px-2.5 py-1 bg-gray-100 text-gray-800 border border-gray-200 rounded-lg text-[11px] font-bold">
+                  <span>&quot;{searchQuery}&quot;</span>
+                  <button
+                    type="button"
+                    onClick={() => setSearchQuery('')}
+                    className="hover:text-red-500 ml-0.5 cursor-pointer"
+                    aria-label="Remove search query"
+                  >
+                    <X className="w-3 h-3" />
+                  </button>
+                </span>
+              )}
+
+              {/* 전체 초기화 */}
+              <button
+                type="button"
+                onClick={() => {
+                  setSelectedCategory('all');
+                  setSelectedTag('all');
+                  setSearchQuery('');
+                }}
+                className="inline-flex items-center gap-1 text-[11px] text-gray-500 hover:text-red-600 font-bold px-2 py-1 hover:bg-red-50 rounded-lg transition-all cursor-pointer touch-manipulation"
+              >
+                <RotateCcw className="w-3 h-3" />
+                <span>전체 초기화</span>
+              </button>
+            </div>
           )}
         </div>
 

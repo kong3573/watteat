@@ -20,6 +20,14 @@ export interface CategoryOption {
   icon: string;
 }
 
+export interface ThemeOption {
+  id: string;
+  label: string;
+  labelEn: string;
+  icon: string;
+  description?: string;
+}
+
 export interface Ingredient {
   name: string;
   nameEn: string;
